@@ -1,0 +1,22 @@
+outFileId      1
+odir           ../Configs/
+beta           3.09
+seed           1337
+sconf          1
+fconf          9
+econf          1
+mtopcharge     0
+smear_tc       0 0.3
+mwil           1 5
+tLoopExtent    1 4 10 7 8
+tSmear         0 0.5 
+rLoopExtent    3 4 9 12 1
+rSmear         0 0.5
+mcorrs         0
+kappa          0.1588
+source         0 0 0 0
+stype          1
+nmax           5000
+prec           1.0e-08
+n2pt           1
+gammas         5 5

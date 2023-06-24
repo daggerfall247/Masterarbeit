@@ -1,0 +1,9 @@
+outFileId     1
+outputDir     ../Configs/32x32x32x32_SU2_b2.700000
+beta          2.70
+epsilon       0.1
+nconf         21000
+ntherm        1000
+ndecorr       1
+writeConfFreq 20
+seed          17846

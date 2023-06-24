@@ -1,0 +1,10 @@
+outFileId     1
+outputDir     ../Configs/16x16x16x16_SU2_b2.300
+start         0
+beta          2.3
+epsilon       0.15
+nconf         1000
+ntherm        100
+ndecorr       1
+writeConfFreq 10
+seed          1337

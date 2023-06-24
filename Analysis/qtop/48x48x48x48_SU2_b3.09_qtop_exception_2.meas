@@ -1,0 +1,593 @@
+measuring on Configuration /scratch/mesonqcd/stilger/MA/configs/48x48x48x48_SU2_b3.09/7/48x48x48x48_SU2_b3.090000_id1_n45
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/48x48x48x48_SU2_b3.09/7/48x48x48x48_SU2_b3.090000_id1_n45:
+
+Configuration imported (took 6.466e+00 sec)!
+calculating topological charge ..
+measurement done (took 1.110e+02 sec)
+QTOP 45 0 5.000000e-02 -9.67275209e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 45 1 5.000000e-02 -1.39615222e+01
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 45 2 5.000000e-02 -1.34394714e+01
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 45 3 5.000000e-02 -1.09333076e+01
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 45 4 5.000000e-02 -8.18011887e+00
+calculating topological charge ..
+measurement done (took 1.108e+02 sec)
+QTOP 45 5 5.000000e-02 -5.90163624e+00
+calculating topological charge ..
+measurement done (took 1.107e+02 sec)
+QTOP 45 6 5.000000e-02 -4.23826520e+00
+calculating topological charge ..
+measurement done (took 1.107e+02 sec)
+QTOP 45 7 5.000000e-02 -3.10177124e+00
+calculating topological charge ..
+measurement done (took 1.108e+02 sec)
+QTOP 45 8 5.000000e-02 -2.35422706e+00
+calculating topological charge ..
+measurement done (took 1.108e+02 sec)
+QTOP 45 9 5.000000e-02 -1.87337908e+00
+calculating topological charge ..
+measurement done (took 1.110e+02 sec)
+QTOP 45 10 5.000000e-02 -1.56767145e+00
+calculating topological charge ..
+measurement done (took 1.108e+02 sec)
+QTOP 45 11 5.000000e-02 -1.37389128e+00
+calculating topological charge ..
+measurement done (took 1.108e+02 sec)
+QTOP 45 12 5.000000e-02 -1.25048067e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 45 13 5.000000e-02 -1.17098437e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 45 14 5.000000e-02 -1.11890699e+00
+calculating topological charge ..
+measurement done (took 1.108e+02 sec)
+QTOP 45 15 5.000000e-02 -1.08408206e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 45 16 5.000000e-02 -1.06026738e+00
+calculating topological charge ..
+measurement done (took 1.108e+02 sec)
+QTOP 45 17 5.000000e-02 -1.04361741e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 45 18 5.000000e-02 -1.03173927e+00
+calculating topological charge ..
+measurement done (took 1.115e+02 sec)
+QTOP 45 19 5.000000e-02 -1.02311981e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 45 20 5.000000e-02 -1.01678139e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 45 21 5.000000e-02 -1.01207621e+00
+calculating topological charge ..
+measurement done (took 1.110e+02 sec)
+QTOP 45 22 5.000000e-02 -1.00856312e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 45 23 5.000000e-02 -1.00593348e+00
+calculating topological charge ..
+measurement done (took 1.108e+02 sec)
+QTOP 45 24 5.000000e-02 -1.00396598e+00
+calculating topological charge ..
+measurement done (took 1.107e+02 sec)
+QTOP 45 25 5.000000e-02 -1.00249847e+00
+calculating topological charge ..
+measurement done (took 1.107e+02 sec)
+QTOP 45 26 5.000000e-02 -1.00141020e+00
+calculating topological charge ..
+measurement done (took 1.108e+02 sec)
+QTOP 45 27 5.000000e-02 -1.00061007e+00
+calculating topological charge ..
+measurement done (took 1.113e+02 sec)
+QTOP 45 28 5.000000e-02 -1.00002877e+00
+calculating topological charge ..
+measurement done (took 1.110e+02 sec)
+QTOP 45 29 5.000000e-02 -9.99613279e-01
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 45 30 5.000000e-02 -9.99322943e-01
+measurement took 3.623e+03 sec
+
+measuring on Configuration /scratch/mesonqcd/stilger/MA/configs/48x48x48x48_SU2_b3.09/7/48x48x48x48_SU2_b3.090000_id1_n46
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/48x48x48x48_SU2_b3.09/7/48x48x48x48_SU2_b3.090000_id1_n46:
+
+Configuration imported (took 6.240e+00 sec)!
+calculating topological charge ..
+measurement done (took 1.110e+02 sec)
+QTOP 46 0 5.000000e-02 +3.61666684e+01
+calculating topological charge ..
+measurement done (took 1.108e+02 sec)
+QTOP 46 1 5.000000e-02 +2.69672619e+01
+calculating topological charge ..
+measurement done (took 1.110e+02 sec)
+QTOP 46 2 5.000000e-02 +1.79028334e+01
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 46 3 5.000000e-02 +1.08596550e+01
+calculating topological charge ..
+measurement done (took 1.110e+02 sec)
+QTOP 46 4 5.000000e-02 +6.08713424e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 46 5 5.000000e-02 +3.09149701e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 46 6 5.000000e-02 +1.29385778e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 46 7 5.000000e-02 +2.45271335e-01
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 46 8 5.000000e-02 -3.54147352e-01
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 46 9 5.000000e-02 -6.90592252e-01
+calculating topological charge ..
+measurement done (took 1.110e+02 sec)
+QTOP 46 10 5.000000e-02 -8.75351558e-01
+calculating topological charge ..
+measurement done (took 1.108e+02 sec)
+QTOP 46 11 5.000000e-02 -9.73656724e-01
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 46 12 5.000000e-02 -1.02332509e+00
+calculating topological charge ..
+measurement done (took 1.108e+02 sec)
+QTOP 46 13 5.000000e-02 -1.04609459e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 46 14 5.000000e-02 -1.05434783e+00
+calculating topological charge ..
+measurement done (took 1.109e+02 sec)
+QTOP 46 15 5.000000e-02 -1.05506098e+00
+calculating topological charge ..
+measurement done (took 1.118e+02 sec)
+QTOP 46 16 5.000000e-02 -1.05210818e+00
+calculating topological charge ..
+measurement done (took 1.119e+02 sec)
+QTOP 46 17 5.000000e-02 -1.04759797e+00
+calculating topological charge ..
+measurement done (took 1.119e+02 sec)
+QTOP 46 18 5.000000e-02 -1.04264343e+00
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 46 19 5.000000e-02 -1.03780320e+00
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 46 20 5.000000e-02 -1.03333227e+00
+calculating topological charge ..
+measurement done (took 1.121e+02 sec)
+QTOP 46 21 5.000000e-02 -1.02932361e+00
+calculating topological charge ..
+measurement done (took 1.119e+02 sec)
+QTOP 46 22 5.000000e-02 -1.02578719e+00
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 46 23 5.000000e-02 -1.02269361e+00
+calculating topological charge ..
+measurement done (took 1.121e+02 sec)
+QTOP 46 24 5.000000e-02 -1.01999750e+00
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 46 25 5.000000e-02 -1.01764968e+00
+calculating topological charge ..
+measurement done (took 1.121e+02 sec)
+QTOP 46 26 5.000000e-02 -1.01560313e+00
+calculating topological charge ..
+measurement done (took 1.119e+02 sec)
+QTOP 46 27 5.000000e-02 -1.01381552e+00
+calculating topological charge ..
+measurement done (took 1.121e+02 sec)
+QTOP 46 28 5.000000e-02 -1.01224998e+00
+calculating topological charge ..
+measurement done (took 1.123e+02 sec)
+QTOP 46 29 5.000000e-02 -1.01087499e+00
+calculating topological charge ..
+measurement done (took 1.122e+02 sec)
+QTOP 46 30 5.000000e-02 -1.00966386e+00
+measurement took 3.639e+03 sec
+
+measuring on Configuration /scratch/mesonqcd/stilger/MA/configs/48x48x48x48_SU2_b3.09/7/48x48x48x48_SU2_b3.090000_id1_n47
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/48x48x48x48_SU2_b3.09/7/48x48x48x48_SU2_b3.090000_id1_n47:
+
+Configuration imported (took 6.231e+00 sec)!
+calculating topological charge ..
+measurement done (took 1.124e+02 sec)
+QTOP 47 0 5.000000e-02 +1.47004312e+01
+calculating topological charge ..
+measurement done (took 1.123e+02 sec)
+QTOP 47 1 5.000000e-02 +1.26645006e+01
+calculating topological charge ..
+measurement done (took 1.123e+02 sec)
+QTOP 47 2 5.000000e-02 +9.45499175e+00
+calculating topological charge ..
+measurement done (took 1.123e+02 sec)
+QTOP 47 3 5.000000e-02 +6.41975730e+00
+calculating topological charge ..
+measurement done (took 1.123e+02 sec)
+QTOP 47 4 5.000000e-02 +4.06644792e+00
+calculating topological charge ..
+measurement done (took 1.123e+02 sec)
+QTOP 47 5 5.000000e-02 +2.38130680e+00
+calculating topological charge ..
+measurement done (took 1.124e+02 sec)
+QTOP 47 6 5.000000e-02 +1.21615551e+00
+calculating topological charge ..
+measurement done (took 1.134e+02 sec)
+QTOP 47 7 5.000000e-02 +4.27411212e-01
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 47 8 5.000000e-02 -9.72012616e-02
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 47 9 5.000000e-02 -4.40343574e-01
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 47 10 5.000000e-02 -6.61083935e-01
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 47 11 5.000000e-02 -8.00653095e-01
+calculating topological charge ..
+measurement done (took 1.131e+02 sec)
+QTOP 47 12 5.000000e-02 -8.87253445e-01
+calculating topological charge ..
+measurement done (took 1.134e+02 sec)
+QTOP 47 13 5.000000e-02 -9.39826296e-01
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 47 14 5.000000e-02 -9.70876440e-01
+calculating topological charge ..
+measurement done (took 1.132e+02 sec)
+QTOP 47 15 5.000000e-02 -9.88528811e-01
+calculating topological charge ..
+measurement done (took 1.132e+02 sec)
+QTOP 47 16 5.000000e-02 -9.97987644e-01
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 47 17 5.000000e-02 -1.00254422e+00
+calculating topological charge ..
+measurement done (took 1.131e+02 sec)
+QTOP 47 18 5.000000e-02 -1.00425513e+00
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 47 19 5.000000e-02 -1.00438903e+00
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 47 20 5.000000e-02 -1.00371615e+00
+calculating topological charge ..
+measurement done (took 1.132e+02 sec)
+QTOP 47 21 5.000000e-02 -1.00269385e+00
+calculating topological charge ..
+measurement done (took 1.131e+02 sec)
+QTOP 47 22 5.000000e-02 -1.00158477e+00
+calculating topological charge ..
+measurement done (took 1.132e+02 sec)
+QTOP 47 23 5.000000e-02 -1.00053167e+00
+calculating topological charge ..
+measurement done (took 1.132e+02 sec)
+QTOP 47 24 5.000000e-02 -9.99604639e-01
+calculating topological charge ..
+measurement done (took 1.132e+02 sec)
+QTOP 47 25 5.000000e-02 -9.98830755e-01
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 47 26 5.000000e-02 -9.98212570e-01
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 47 27 5.000000e-02 -9.97739520e-01
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 47 28 5.000000e-02 -9.97394834e-01
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 47 29 5.000000e-02 -9.97159627e-01
+calculating topological charge ..
+measurement done (took 1.134e+02 sec)
+QTOP 47 30 5.000000e-02 -9.97015215e-01
+measurement took 3.691e+03 sec
+
+measuring on Configuration /scratch/mesonqcd/stilger/MA/configs/48x48x48x48_SU2_b3.09/7/48x48x48x48_SU2_b3.090000_id1_n48
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/48x48x48x48_SU2_b3.09/7/48x48x48x48_SU2_b3.090000_id1_n48:
+
+Configuration imported (took 4.801e+00 sec)!
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 48 0 5.000000e-02 -2.10352904e+01
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 48 1 5.000000e-02 -1.26137314e+01
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 48 2 5.000000e-02 -6.82798517e+00
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 48 3 5.000000e-02 -3.65524732e+00
+calculating topological charge ..
+measurement done (took 1.134e+02 sec)
+QTOP 48 4 5.000000e-02 -2.13509978e+00
+calculating topological charge ..
+measurement done (took 1.124e+02 sec)
+QTOP 48 5 5.000000e-02 -1.48514698e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 48 6 5.000000e-02 -1.23950100e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 48 7 5.000000e-02 -1.15947305e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 48 8 5.000000e-02 -1.13696321e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 48 9 5.000000e-02 -1.12914146e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 48 10 5.000000e-02 -1.12193754e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 48 11 5.000000e-02 -1.11232247e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 48 12 5.000000e-02 -1.10074902e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 48 13 5.000000e-02 -1.08834509e+00
+calculating topological charge ..
+measurement done (took 1.124e+02 sec)
+QTOP 48 14 5.000000e-02 -1.07606023e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 48 15 5.000000e-02 -1.06451107e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 48 16 5.000000e-02 -1.05403180e+00
+calculating topological charge ..
+measurement done (took 1.124e+02 sec)
+QTOP 48 17 5.000000e-02 -1.04475958e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 48 18 5.000000e-02 -1.03670682e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 48 19 5.000000e-02 -1.02981294e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 48 20 5.000000e-02 -1.02397869e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 48 21 5.000000e-02 -1.01908818e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 48 22 5.000000e-02 -1.01502228e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 48 23 5.000000e-02 -1.01166664e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 48 24 5.000000e-02 -1.00891591e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 48 25 5.000000e-02 -1.00667574e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 48 26 5.000000e-02 -1.00486330e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 48 27 5.000000e-02 -1.00340694e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 48 28 5.000000e-02 -1.00224543e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 48 29 5.000000e-02 -1.00132687e+00
+calculating topological charge ..
+measurement done (took 1.124e+02 sec)
+QTOP 48 30 5.000000e-02 -1.00060762e+00
+measurement took 3.675e+03 sec
+
+measuring on Configuration /scratch/mesonqcd/stilger/MA/configs/48x48x48x48_SU2_b3.09/7/48x48x48x48_SU2_b3.090000_id1_n49
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/48x48x48x48_SU2_b3.09/7/48x48x48x48_SU2_b3.090000_id1_n49:
+
+Configuration imported (took 7.859e+00 sec)!
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 0 5.000000e-02 -1.05973618e+01
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 1 5.000000e-02 -6.25859062e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 2 5.000000e-02 -4.30535960e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 3 5.000000e-02 -3.22929940e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 4 5.000000e-02 -2.50703563e+00
+calculating topological charge ..
+measurement done (took 1.124e+02 sec)
+QTOP 49 5 5.000000e-02 -1.98833336e+00
+calculating topological charge ..
+measurement done (took 1.123e+02 sec)
+QTOP 49 6 5.000000e-02 -1.62160636e+00
+calculating topological charge ..
+measurement done (took 1.123e+02 sec)
+QTOP 49 7 5.000000e-02 -1.37268795e+00
+calculating topological charge ..
+measurement done (took 1.124e+02 sec)
+QTOP 49 8 5.000000e-02 -1.21119136e+00
+calculating topological charge ..
+measurement done (took 1.124e+02 sec)
+QTOP 49 9 5.000000e-02 -1.11119780e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 10 5.000000e-02 -1.05235700e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 11 5.000000e-02 -1.01979363e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 12 5.000000e-02 -1.00327578e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 13 5.000000e-02 -9.96112993e-01
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 14 5.000000e-02 -9.94106468e-01
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 49 15 5.000000e-02 -9.94713063e-01
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 16 5.000000e-02 -9.96448457e-01
+calculating topological charge ..
+measurement done (took 1.124e+02 sec)
+QTOP 49 17 5.000000e-02 -9.98487072e-01
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 18 5.000000e-02 -1.00040294e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 19 5.000000e-02 -1.00200536e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 49 20 5.000000e-02 -1.00323635e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 49 21 5.000000e-02 -1.00410813e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 22 5.000000e-02 -1.00466577e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 23 5.000000e-02 -1.00496593e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 24 5.000000e-02 -1.00506530e+00
+calculating topological charge ..
+measurement done (took 1.126e+02 sec)
+QTOP 49 25 5.000000e-02 -1.00501494e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 26 5.000000e-02 -1.00485803e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 27 5.000000e-02 -1.00462955e+00
+calculating topological charge ..
+measurement done (took 1.124e+02 sec)
+QTOP 49 28 5.000000e-02 -1.00435685e+00
+calculating topological charge ..
+measurement done (took 1.124e+02 sec)
+QTOP 49 29 5.000000e-02 -1.00406066e+00
+calculating topological charge ..
+measurement done (took 1.125e+02 sec)
+QTOP 49 30 5.000000e-02 -1.00375626e+00
+measurement took 3.673e+03 sec
+
+measuring on Configuration /scratch/mesonqcd/stilger/MA/configs/48x48x48x48_SU2_b3.09/7/48x48x48x48_SU2_b3.090000_id1_n50
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/48x48x48x48_SU2_b3.09/7/48x48x48x48_SU2_b3.090000_id1_n50:
+
+Configuration imported (took 3.889e+00 sec)!
+calculating topological charge ..
+measurement done (took 1.121e+02 sec)
+QTOP 50 0 5.000000e-02 -6.79127594e+00
+calculating topological charge ..
+measurement done (took 1.139e+02 sec)
+QTOP 50 1 5.000000e-02 -4.92262755e+00
+calculating topological charge ..
+measurement done (took 1.133e+02 sec)
+QTOP 50 2 5.000000e-02 -3.71605695e+00
+calculating topological charge ..
+measurement done (took 1.121e+02 sec)
+QTOP 50 3 5.000000e-02 -2.76172713e+00
+calculating topological charge ..
+measurement done (took 1.121e+02 sec)
+QTOP 50 4 5.000000e-02 -2.01041448e+00
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 50 5 5.000000e-02 -1.46788546e+00
+calculating topological charge ..
+measurement done (took 1.119e+02 sec)
+QTOP 50 6 5.000000e-02 -1.10995291e+00
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 50 7 5.000000e-02 -8.93886253e-01
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 50 8 5.000000e-02 -7.77072084e-01
+calculating topological charge ..
+measurement done (took 1.119e+02 sec)
+QTOP 50 9 5.000000e-02 -7.25502861e-01
+calculating topological charge ..
+measurement done (took 1.121e+02 sec)
+QTOP 50 10 5.000000e-02 -7.14822673e-01
+calculating topological charge ..
+measurement done (took 1.119e+02 sec)
+QTOP 50 11 5.000000e-02 -7.28446175e-01
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 50 12 5.000000e-02 -7.55286490e-01
+calculating topological charge ..
+measurement done (took 1.117e+02 sec)
+QTOP 50 13 5.000000e-02 -7.87990770e-01
+calculating topological charge ..
+measurement done (took 1.118e+02 sec)
+QTOP 50 14 5.000000e-02 -8.21772674e-01
+calculating topological charge ..
+measurement done (took 1.121e+02 sec)
+QTOP 50 15 5.000000e-02 -8.53668517e-01
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 50 16 5.000000e-02 -8.82036558e-01
+calculating topological charge ..
+measurement done (took 1.118e+02 sec)
+QTOP 50 17 5.000000e-02 -9.06182522e-01
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 50 18 5.000000e-02 -9.26055204e-01
+calculating topological charge ..
+measurement done (took 1.119e+02 sec)
+QTOP 50 19 5.000000e-02 -9.41995709e-01
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 50 20 5.000000e-02 -9.54541439e-01
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 50 21 5.000000e-02 -9.64287050e-01
+calculating topological charge ..
+measurement done (took 1.119e+02 sec)
+QTOP 50 22 5.000000e-02 -9.71798213e-01
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 50 23 5.000000e-02 -9.77567740e-01
+calculating topological charge ..
+measurement done (took 1.119e+02 sec)
+QTOP 50 24 5.000000e-02 -9.82001023e-01
+calculating topological charge ..
+measurement done (took 1.119e+02 sec)
+QTOP 50 25 5.000000e-02 -9.85418824e-01
+calculating topological charge ..
+measurement done (took 1.121e+02 sec)
+QTOP 50 26 5.000000e-02 -9.88068379e-01
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 50 27 5.000000e-02 -9.90137067e-01
+calculating topological charge ..
+measurement done (took 1.121e+02 sec)
+QTOP 50 28 5.000000e-02 -9.91765513e-01
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 50 29 5.000000e-02 -9.93058790e-01
+calculating topological charge ..
+measurement done (took 1.120e+02 sec)
+QTOP 50 30 5.000000e-02 -9.94095368e-01
+measurement took 3.668e+03 sec

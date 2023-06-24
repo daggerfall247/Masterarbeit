@@ -1,0 +1,3503 @@
+
+
+*******************************************************************************
+Fri May  5 13:58:38 2023
+
+
+FIT:    data read from "R12.dat" using (1/($2**(0.25))*a):($3/(a*u))
+        format = x:z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = A/x*exp(-sqrt(3)*m/u*x/2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             m            
+   0 3.1465647602e+01   0.00e+00  4.09e+00    3.000000e+00   1.610000e+00
+   6 1.2457004613e+00  -1.80e-01  4.09e-06    1.283563e+00  -8.570561e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.2457
+rel. change during last iteration : -1.80391e-06
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.11611
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.2457
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 1.28356          +/- 0.2795       (21.77%)
+m               = -8.57056         +/- 1.525        (17.8%)
+
+correlation matrix of the fit parameters:
+                A      m      
+A               1.000 
+m               0.872  1.000 
+
+
+*******************************************************************************
+Fri May  5 14:03:12 2023
+
+
+FIT:    data read from "R12.dat" using (1/($2**(0.25))*a):($3/(a*u))
+        format = x:z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = V + A/x*exp(-sqrt(3)*m/u*x/2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             m             V            
+   0 2.7455896619e+01   0.00e+00  3.39e+00    3.000000e+00   1.610000e+00   1.000000e+00
+  46 0.0000000000e+00  -inf       3.39e-09   -5.540796e-02  -6.397085e+00   6.271437e+00
+
+After 46 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -1.95803e-26
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+A               = -0.055408      
+m               = -6.39708       
+V               = 6.27144        
+
+
+*******************************************************************************
+Fri May  5 14:03:28 2023
+
+
+FIT:    data read from "R12.dat" using (1/($2**(0.25))*a):($3/(a*u))
+        format = x:z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = V + A/x*exp(-sqrt(3)*m/u*x/2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             m             V            
+   0 2.7455896619e+01   0.00e+00  3.39e+00    3.000000e+00   1.610000e+00   1.000000e+00
+  46 0.0000000000e+00  -inf       3.39e-09   -5.540796e-02  -6.397085e+00   6.271437e+00
+
+After 46 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -1.95803e-26
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+A               = -0.055408      
+m               = -6.39708       
+V               = 6.27144        
+
+
+*******************************************************************************
+Fri May  5 14:04:37 2023
+
+
+FIT:    data read from "R12.dat" using (1/($2**(0.25))*a):($3/(a*u))
+        format = x:z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = V + A/x*exp(-sqrt(3)*m/u*x/2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             m             V            
+   0 1.0033616660e+02   0.00e+00  4.85e+00    3.000000e+00   1.610000e+00   6.100000e+00
+  99 0.0000000000e+00  -inf       4.85e-11   -3.286207e-01   4.939101e+01   6.098202e+00
+
+After 99 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -2.62691e-28
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+A               = -0.328621      
+m               = 49.391         
+V               = 6.0982         
+
+
+*******************************************************************************
+Fri May  5 14:04:51 2023
+
+
+FIT:    data read from "R12.dat" using (1/($2**(0.25))*a):($3/(a*u))
+        format = x:z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = V + A/x*exp(-sqrt(3)*m/u*x/2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             m             V            
+   0 1.1478897681e+01   0.00e+00  3.69e+00    1.000000e+00   1.610000e+00   6.100000e+00
+ 118 0.0000000000e+00  -inf       3.69e-11   -3.286207e-01   4.939101e+01   6.098202e+00
+
+After 118 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -2.91879e-28
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+A               = -0.328621      
+m               = 49.391         
+V               = 6.0982         
+
+
+*******************************************************************************
+Fri May  5 14:07:38 2023
+
+
+FIT:    data read from "R12.dat" using ($2/(a**4)):($3/(a*u)):($4/(a*u))
+        format = x:z:s
+        #datapoints = 3
+function used for fitting: g(x)
+	g(x) = V + x/(2*y)*M2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   V             y             M2           
+   0 3.2886848099e+07   0.00e+00  3.16e+03    6.100000e+00   1.000000e+00   1.000000e+00
+   5 2.4875063725e-01  -1.78e-07  3.16e-02    6.098748e+00   1.629836e+00  -2.322762e-03
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.248751
+rel. change during last iteration : -1.77591e-12
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+V               = 6.09875        
+y               = 1.62984        
+M2              = -0.00232276    
+
+
+*******************************************************************************
+Fri May  5 14:08:02 2023
+
+
+FIT:    data read from "R12.dat" using ($2/(a**4)):($3/(a*u)):($4/(a*u))
+        format = x:z:s
+        #datapoints = 3
+function used for fitting: g(x)
+	g(x) = V + x/(2*y)*M2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   V             y             M2           
+   0 3.2886848099e+07   0.00e+00  3.16e+03    6.100000e+00   1.000000e+00   1.000000e+00
+   5 2.4875063725e-01  -1.78e-07  3.16e-02    6.098748e+00   1.629836e+00  -2.322762e-03
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.248751
+rel. change during last iteration : -1.77591e-12
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+V               = 6.09875        
+y               = 1.62984        
+M2              = -0.00232276    
+
+
+*******************************************************************************
+Fri May  5 14:08:45 2023
+
+
+FIT:    data read from "R12.dat" using ($2/(a**4)):($3/(a*u)):($4/(a*u))
+        format = x:z:s
+        #datapoints = 3
+function used for fitting: g(x)
+	g(x) = V + x/(2*y)*M2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   V             y             M2           
+   0 3.2886848099e+07   0.00e+00  3.16e+03    6.100000e+00   1.000000e+00   1.000000e+00
+   5 2.4875063725e-01  -1.78e-07  3.16e-02    6.098748e+00   1.629836e+00  -2.322762e-03
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.248751
+rel. change during last iteration : -1.77591e-12
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+V               = 6.09875        
+y               = 1.62984        
+M2              = -0.00232276    
+
+
+*******************************************************************************
+Fri May  5 14:08:58 2023
+
+
+FIT:    data read from "R12.dat" using ($2/(a**4)):($3/(a*u)):($4/(a*u))
+        format = x:z:s
+        #datapoints = 3
+function used for fitting: g(x)
+	g(x) = V + x/(2*y)*M2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   V             y             M2           
+   0 3.2886848099e+07   0.00e+00  3.16e+03    6.100000e+00   1.000000e+00   1.000000e+00
+   5 2.4875063725e-01  -1.78e-07  3.16e-02    6.098748e+00   1.629836e+00  -2.322762e-03
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.248751
+rel. change during last iteration : -1.77591e-12
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+V               = 6.09875        
+y               = 1.62984        
+M2              = -0.00232276    
+
+
+*******************************************************************************
+Fri May  5 14:09:38 2023
+
+
+FIT:    data read from "R12.dat" using ($2/(a**4)):($3/(a*u)):($4/(a*u))
+        format = x:z:s
+        #datapoints = 3
+function used for fitting: g(x)
+	g(x) = V + 1/(2*y*x)*M2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   V             y             M2           
+   0 7.4843049897e+05   0.00e+00  1.69e+03    6.100000e+00   1.000000e+00   1.000000e+00
+   6 5.3217114633e+01   0.00e+00  1.69e+04    6.087012e+00   1.604230e+00   1.537068e-02
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 53.2171
+rel. change during last iteration : 0
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+V               = 6.08701        
+y               = 1.60423        
+M2              = 0.0153707      
+
+
+*******************************************************************************
+Fri May  5 14:09:50 2023
+
+
+FIT:    data read from "R12.dat" using ($2/(a**4)):($3/(a*u)):($4/(a*u))
+        format = x:z:s
+        #datapoints = 3
+function used for fitting: g(x)
+	g(x) = V + x/(2*y)*M2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   V             y             M2           
+   0 3.2886848099e+07   0.00e+00  3.16e+03    6.100000e+00   1.000000e+00   1.000000e+00
+   5 2.4875063725e-01  -1.78e-07  3.16e-02    6.098748e+00   1.629836e+00  -2.322762e-03
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.248751
+rel. change during last iteration : -1.77591e-12
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+V               = 6.09875        
+y               = 1.62984        
+M2              = -0.00232276    
+
+
+*******************************************************************************
+Tue May 16 12:54:48 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 2.3821329272e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -4.49e-05  3.13e-02   -4.296334e-02   1.383765e+00   3.439674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -4.48952e-10
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 3.43967          +/- 0.0041       (0.1192%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 12:55:37 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 2.3821329272e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -4.49e-05  3.13e-02   -4.296334e-02   1.383765e+00   3.439674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -4.48952e-10
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 3.43967          +/- 0.0041       (0.1192%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 12:56:33 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 2.3821329272e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -4.49e-05  3.13e-02   -4.296334e-02   1.383765e+00   3.439674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -4.48952e-10
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 3.43967          +/- 0.0041       (0.1192%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 12:56:46 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 2.3821329272e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -4.49e-05  3.13e-02   -4.296334e-02   1.383765e+00   3.439674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -4.48952e-10
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 3.43967          +/- 0.0041       (0.1192%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 12:57:00 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 2.3821329272e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -4.49e-05  3.13e-02   -4.296334e-02   1.383765e+00   3.439674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -4.48952e-10
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 3.43967          +/- 0.0041       (0.1192%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 12:57:18 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 2.3821329272e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -4.49e-05  3.13e-02   -4.296334e-02   1.383765e+00   3.439674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -4.48952e-10
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 3.43967          +/- 0.0041       (0.1192%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 12:57:24 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 2.3821329272e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -4.49e-05  3.13e-02   -4.296334e-02   1.383765e+00   3.439674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -4.48952e-10
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 3.43967          +/- 0.0041       (0.1192%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 12:58:23 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 2.3821329272e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -4.49e-05  3.13e-02   -4.296334e-02   1.383765e+00   3.439674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -4.48952e-10
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 3.43967          +/- 0.0041       (0.1192%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 12:58:30 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 2.3821329272e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -4.49e-05  3.13e-02   -4.296334e-02   1.383765e+00   3.439674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -4.48952e-10
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 3.43967          +/- 0.0041       (0.1192%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 12:58:39 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 2.3821329272e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -4.49e-05  3.13e-02   -4.296334e-02   1.383765e+00   3.439674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -4.48952e-10
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 3.43967          +/- 0.0041       (0.1192%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 12:58:57 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 2.3821329272e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -4.49e-05  3.13e-02   -4.296334e-02   1.383765e+00   3.439674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -4.48952e-10
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 3.43967          +/- 0.0041       (0.1192%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:00:58 2023
+
+
+FIT:    data read from "carolin_b.dat" u ($1*a_carolin_b):($2/(a_carolin_b*u) + offset_b + offset):($3/(a_carolin_b*u))
+        format = x:z:s
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 9.8972822084e+10   0.00e+00  7.31e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.4248261130e+01  -2.61e-03  7.31e-02   -4.801789e-02   1.186822e+00   3.502757e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 74.2483
+rel. change during last iteration : -2.61363e-08
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.51777
+variance of residuals (reduced chisquare) = WSSR/ndf   : 12.3747
+p-value of the Chisq distribution (FIT_P)              : 5.4845e-14
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0480179       +/- 0.0001326    (0.2761%)
+B               = 1.18682          +/- 0.00821      (0.6918%)
+C               = 3.50276          +/- 0.002231     (0.06369%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.928  1.000 
+C              -0.990 -0.968  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:01:22 2023
+
+
+FIT:    data read from "carolin_b.dat" u ($1*a_carolin_b):($2/(a_carolin_b*u) + offset_b + offset):($3/(a_carolin_b*u))
+        format = x:z:s
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 9.8972822084e+10   0.00e+00  7.31e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.4248261130e+01  -2.61e-03  7.31e-02   -4.801789e-02   1.186822e+00   3.502757e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 74.2483
+rel. change during last iteration : -2.61363e-08
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.51777
+variance of residuals (reduced chisquare) = WSSR/ndf   : 12.3747
+p-value of the Chisq distribution (FIT_P)              : 5.4845e-14
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0480179       +/- 0.0001326    (0.2761%)
+B               = 1.18682          +/- 0.00821      (0.6918%)
+C               = 3.50276          +/- 0.002231     (0.06369%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.928  1.000 
+C              -0.990 -0.968  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:01:31 2023
+
+
+FIT:    data read from "carolin_b.dat" u ($1*a_carolin_b):($2/(a_carolin_b*u) + offset_b + offset):($3/(a_carolin_b*u))
+        format = x:z:s
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 5.5030775231e+10   0.00e+00  7.31e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.4248261130e+01  -1.44e-02  7.31e-02   -4.801789e-02   1.186822e+00   6.002757e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 74.2483
+rel. change during last iteration : -1.4402e-07
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.51777
+variance of residuals (reduced chisquare) = WSSR/ndf   : 12.3747
+p-value of the Chisq distribution (FIT_P)              : 5.4845e-14
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0480179       +/- 0.0001326    (0.2761%)
+B               = 1.18682          +/- 0.00821      (0.6918%)
+C               = 6.00276          +/- 0.002231     (0.03717%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.928  1.000 
+C              -0.990 -0.968  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:02:05 2023
+
+
+FIT:    data read from "carolin_b.dat" u ($1*a_carolin_b):($2/(a_carolin_b*u) + offset_b + offset):($3/(a_carolin_b*u))
+        format = x:z:s
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 5.5030775231e+10   0.00e+00  7.31e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.4248261130e+01  -1.44e-02  7.31e-02   -4.801789e-02   1.186822e+00   6.002757e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 74.2483
+rel. change during last iteration : -1.4402e-07
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.51777
+variance of residuals (reduced chisquare) = WSSR/ndf   : 12.3747
+p-value of the Chisq distribution (FIT_P)              : 5.4845e-14
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0480179       +/- 0.0001326    (0.2761%)
+B               = 1.18682          +/- 0.00821      (0.6918%)
+C               = 6.00276          +/- 0.002231     (0.03717%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.928  1.000 
+C              -0.990 -0.968  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:03:02 2023
+
+
+FIT:    data read from "carolin_b.dat" u ($1*a_carolin_b):($2/(a_carolin_b*u) + offset_b + offset):($3/(a_carolin_b*u))
+        format = x:z:s
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 5.3561435419e+10   0.00e+00  7.31e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.4248261130e+01  -1.51e-02  7.31e-02   -4.801789e-02   1.186822e+00   6.102757e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 74.2483
+rel. change during last iteration : -1.50708e-07
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.51777
+variance of residuals (reduced chisquare) = WSSR/ndf   : 12.3747
+p-value of the Chisq distribution (FIT_P)              : 5.4845e-14
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0480179       +/- 0.0001326    (0.2761%)
+B               = 1.18682          +/- 0.00821      (0.6918%)
+C               = 6.10276          +/- 0.002231     (0.03656%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.928  1.000 
+C              -0.990 -0.968  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:03:07 2023
+
+
+FIT:    data read from "carolin_b.dat" u ($1*a_carolin_b):($2/(a_carolin_b*u) + offset_b + offset):($3/(a_carolin_b*u))
+        format = x:z:s
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 5.2114275766e+10   0.00e+00  7.31e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.4248261130e+01  -1.58e-02  7.31e-02   -4.801789e-02   1.186822e+00   6.202757e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 74.2483
+rel. change during last iteration : -1.57551e-07
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.51777
+variance of residuals (reduced chisquare) = WSSR/ndf   : 12.3747
+p-value of the Chisq distribution (FIT_P)              : 5.4845e-14
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0480179       +/- 0.0001326    (0.2761%)
+B               = 1.18682          +/- 0.00821      (0.6918%)
+C               = 6.20276          +/- 0.002231     (0.03597%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.928  1.000 
+C              -0.990 -0.968  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:03:22 2023
+
+
+FIT:    data read from "carolin_b.dat" u ($1*a_carolin_b):($2/(a_carolin_b*u) + offset_b + offset):($3/(a_carolin_b*u))
+        format = x:z:s
+        #datapoints = 9
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 5.1399013499e+10   0.00e+00  7.31e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.4248261130e+01  -1.61e-02  7.31e-02   -4.801789e-02   1.186822e+00   6.252757e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 74.2483
+rel. change during last iteration : -1.61026e-07
+
+degrees of freedom    (FIT_NDF)                        : 6
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.51777
+variance of residuals (reduced chisquare) = WSSR/ndf   : 12.3747
+p-value of the Chisq distribution (FIT_P)              : 5.4845e-14
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0480179       +/- 0.0001326    (0.2761%)
+B               = 1.18682          +/- 0.00821      (0.6918%)
+C               = 6.25276          +/- 0.002231     (0.03568%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.928  1.000 
+C              -0.990 -0.968  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:04:47 2023
+
+
+FIT:    data read from "carolin_b.dat" u ($1*a_carolin_b):($2/(a_carolin_b*u) + offset_b + offset):($3/(a_carolin_b*u))
+        format = x:z:s
+        x range restricted to [0.0450000 : 0.170000]
+        #datapoints = 3
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 5.1353716354e+10   0.00e+00  1.26e+05    1.000000e+00   1.000000e+00   1.000000e+00
+   8 0.0000000000e+00  -inf       1.26e-03   -4.736557e-02   1.241951e+00   6.240302e+00
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -3.28916e-20
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+A               = -0.0473656     
+B               = 1.24195        
+C               = 6.2403         
+
+
+*******************************************************************************
+Tue May 16 13:05:56 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        x range restricted to [0.0450000 : 0.170000]
+        #datapoints = 5
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6413746627e+10   0.00e+00  4.41e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   7 6.0815056234e+00   0.00e+00  4.41e+05   -4.244768e-02   1.476837e+00   6.175015e+00
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.08151
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.74378
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.04075
+p-value of the Chisq distribution (FIT_P)              : 0.0477989
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0424477       +/- 0.0001556    (0.3666%)
+B               = 1.47684          +/- 0.02608      (1.766%)
+C               = 6.17502          +/- 0.004257     (0.06894%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.957  1.000 
+C              -0.992 -0.983  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:07:07 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        x range restricted to [0.0450000 : 0.170000]
+        #datapoints = 5
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6534692385e+10   0.00e+00  4.41e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   7 6.0815056234e+00  -8.70e-08  4.41e-02   -4.244768e-02   1.476837e+00   6.125015e+00
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.08151
+rel. change during last iteration : -8.70287e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.74378
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.04075
+p-value of the Chisq distribution (FIT_P)              : 0.0477989
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0424477       +/- 0.0001556    (0.3666%)
+B               = 1.47684          +/- 0.02608      (1.766%)
+C               = 6.12502          +/- 0.004257     (0.0695%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.957  1.000 
+C              -0.992 -0.983  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:07:12 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        x range restricted to [0.0450000 : 0.170000]
+        #datapoints = 5
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6486254960e+10   0.00e+00  4.41e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   7 6.0815056234e+00  -1.09e-07  4.41e-03   -4.244768e-02   1.476837e+00   6.145015e+00
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.08151
+rel. change during last iteration : -1.09388e-12
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.74378
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.04075
+p-value of the Chisq distribution (FIT_P)              : 0.0477989
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0424477       +/- 0.0001556    (0.3666%)
+B               = 1.47684          +/- 0.02608      (1.766%)
+C               = 6.14502          +/- 0.004257     (0.06928%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.957  1.000 
+C              -0.992 -0.983  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:08:04 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6486101779e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456450e+01  -1.92e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.160674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92113e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16067          +/- 0.0041       (0.06655%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:13:08 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6486101779e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456450e+01  -1.92e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.160674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92113e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16067          +/- 0.0041       (0.06655%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:13:15 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        x range restricted to [0.0450000 : 0.170000]
+        #datapoints = 5
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6483835158e+10   0.00e+00  4.41e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   7 6.0815056234e+00  -1.65e-07  4.41e-02   -4.244768e-02   1.476837e+00   6.146015e+00
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.08151
+rel. change during last iteration : -1.65134e-12
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.74378
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.04075
+p-value of the Chisq distribution (FIT_P)              : 0.0477989
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0424477       +/- 0.0001556    (0.3666%)
+B               = 1.47684          +/- 0.02608      (1.766%)
+C               = 6.14602          +/- 0.004257     (0.06927%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.957  1.000 
+C              -0.992 -0.983  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:13:50 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        x range restricted to [0.0450000 : 0.170000]
+        #datapoints = 5
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6481415553e+10   0.00e+00  4.41e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   7 6.0815056234e+00  -2.18e-08  4.41e+02   -4.244768e-02   1.476837e+00   6.147015e+00
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.08151
+rel. change during last iteration : -2.18192e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.74378
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.04075
+p-value of the Chisq distribution (FIT_P)              : 0.0477989
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0424477       +/- 0.0001556    (0.3666%)
+B               = 1.47684          +/- 0.02608      (1.766%)
+C               = 6.14702          +/- 0.004257     (0.06925%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.957  1.000 
+C              -0.992 -0.983  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:13:57 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        x range restricted to [0.0450000 : 0.170000]
+        #datapoints = 5
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6478996145e+10   0.00e+00  4.41e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   7 6.0815056234e+00  -1.71e-07  4.41e-03   -4.244768e-02   1.476837e+00   6.148015e+00
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.08151
+rel. change during last iteration : -1.70669e-12
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.74378
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.04075
+p-value of the Chisq distribution (FIT_P)              : 0.0477989
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0424477       +/- 0.0001556    (0.3666%)
+B               = 1.47684          +/- 0.02608      (1.766%)
+C               = 6.14802          +/- 0.004257     (0.06924%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.957  1.000 
+C              -0.992 -0.983  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:14:13 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        x range restricted to [0.0450000 : 0.170000]
+        #datapoints = 5
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6471739104e+10   0.00e+00  4.41e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   7 6.0815056234e+00  -7.08e-08  4.41e-03   -4.244768e-02   1.476837e+00   6.151015e+00
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.08151
+rel. change during last iteration : -7.07738e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.74378
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.04075
+p-value of the Chisq distribution (FIT_P)              : 0.0477989
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0424477       +/- 0.0001556    (0.3666%)
+B               = 1.47684          +/- 0.02608      (1.766%)
+C               = 6.15102          +/- 0.004257     (0.06921%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.957  1.000 
+C              -0.992 -0.983  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:15:08 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:15:44 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        x range restricted to [0.00000 : 0.170000]
+        #datapoints = 5
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6471739104e+10   0.00e+00  4.41e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   7 6.0815056234e+00  -7.08e-08  4.41e-03   -4.244768e-02   1.476837e+00   6.151015e+00
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.08151
+rel. change during last iteration : -7.07738e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.74378
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.04075
+p-value of the Chisq distribution (FIT_P)              : 0.0477989
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0424477       +/- 0.0001556    (0.3666%)
+B               = 1.47684          +/- 0.02608      (1.766%)
+C               = 6.15102          +/- 0.004257     (0.06921%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.957  1.000 
+C              -0.992 -0.983  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:15:56 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        x range restricted to [* : 0.170000]
+        #datapoints = 5
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6471739104e+10   0.00e+00  4.41e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   7 6.0815056234e+00  -7.08e-08  4.41e-03   -4.244768e-02   1.476837e+00   6.151015e+00
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 6.08151
+rel. change during last iteration : -7.07738e-13
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.74378
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.04075
+p-value of the Chisq distribution (FIT_P)              : 0.0477989
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0424477       +/- 0.0001556    (0.3666%)
+B               = 1.47684          +/- 0.02608      (1.766%)
+C               = 6.15102          +/- 0.004257     (0.06921%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.957  1.000 
+C              -0.992 -0.983  1.000 
+
+
+*******************************************************************************
+Tue May 16 13:18:33 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 14:34:33 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 14:35:18 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 14:35:49 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 14:36:29 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 14:39:21 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:05:44 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:05:59 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:06:19 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:06:48 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:07:11 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:08:35 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:09:51 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:10:01 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:10:39 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:10:47 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:11:11 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:11:20 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:11:34 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:11:50 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:12:13 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:14:30 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:14:47 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:14:59 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:15:07 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:15:12 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:15:34 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:15:43 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:15:49 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:16:00 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:16:06 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:16:12 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:16:19 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:16:25 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:16:31 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:16:44 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:18:02 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 15:18:07 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:00:58 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:01:42 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:01:49 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:01:56 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:02:14 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:27:01 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:27:19 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:27:55 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:28:12 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:28:42 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:28:57 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:29:46 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:29:51 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:29:57 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:30:09 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 
+
+
+*******************************************************************************
+Tue May 16 16:37:11 2023
+
+
+FIT:    data read from "carolin_c.dat" u ($1*a_carolin_c):($2/(a_carolin_c*u) + offset_c + offset):($3/(a_carolin_c*u))
+        format = x:z:s
+        #datapoints = 10
+function used for fitting: f(x)
+	f(x) = A/x + B*x + C
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6474015883e+10   0.00e+00  3.13e+04    1.000000e+00   1.000000e+00   1.000000e+00
+   6 7.2877456449e+01  -1.93e-03  3.13e-02   -4.296334e-02   1.383765e+00   6.165674e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 72.8775
+rel. change during last iteration : -1.92708e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.22662
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.4111
+p-value of the Chisq distribution (FIT_P)              : 3.86469e-13
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = -0.0429633       +/- 0.0001685    (0.3921%)
+B               = 1.38376          +/- 0.02036      (1.471%)
+C               = 6.16567          +/- 0.0041       (0.06649%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B               0.904  1.000 
+C              -0.986 -0.955  1.000 

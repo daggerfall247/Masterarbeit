@@ -1,0 +1,3900 @@
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n1
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n1:
+
+Configuration imported (took 3.504e+01 sec)!
+WIL 5 5	4.71658031e-02
+WIL 7 7	1.11120347e-02
+WIL 9 9	2.71069668e-03
+
+Measurement complete (took 1.006e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n2
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n2:
+
+Configuration imported (took 5.046e+01 sec)!
+WIL 5 5	4.62860342e-02
+WIL 7 7	1.06517037e-02
+WIL 9 9	2.46460193e-03
+
+Measurement complete (took 1.021e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n3
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n3:
+
+Configuration imported (took 3.412e+01 sec)!
+WIL 5 5	4.58848673e-02
+WIL 7 7	1.04547597e-02
+WIL 9 9	2.38360097e-03
+
+Measurement complete (took 1.005e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n4
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n4:
+
+Configuration imported (took 4.335e+01 sec)!
+WIL 5 5	4.55094624e-02
+WIL 7 7	1.02348758e-02
+WIL 9 9	2.30333256e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n5
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n5:
+
+Configuration imported (took 4.291e+01 sec)!
+WIL 5 5	4.52195574e-02
+WIL 7 7	1.00774184e-02
+WIL 9 9	2.24365042e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n6
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n6:
+
+Configuration imported (took 3.501e+01 sec)!
+WIL 5 5	4.50575491e-02
+WIL 7 7	9.95558760e-03
+WIL 9 9	2.23878234e-03
+
+Measurement complete (took 1.009e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n7
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n7:
+
+Configuration imported (took 6.652e+01 sec)!
+WIL 5 5	4.49162841e-02
+WIL 7 7	9.93041904e-03
+WIL 9 9	2.20798141e-03
+
+Measurement complete (took 1.041e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n8
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n8:
+
+Configuration imported (took 3.651e+01 sec)!
+WIL 5 5	4.48474462e-02
+WIL 7 7	9.90167705e-03
+WIL 9 9	2.12014452e-03
+
+Measurement complete (took 1.011e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n9
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n9:
+
+Configuration imported (took 4.171e+01 sec)!
+WIL 5 5	4.47667760e-02
+WIL 7 7	9.88251305e-03
+WIL 9 9	2.12173753e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n10
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n10:
+
+Configuration imported (took 3.640e+01 sec)!
+WIL 5 5	4.46936166e-02
+WIL 7 7	9.81186603e-03
+WIL 9 9	2.10395968e-03
+
+Measurement complete (took 1.003e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n11
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n11:
+
+Configuration imported (took 3.826e+01 sec)!
+WIL 5 5	4.46895452e-02
+WIL 7 7	9.80891628e-03
+WIL 9 9	2.09499766e-03
+
+Measurement complete (took 1.006e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n12
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n12:
+
+Configuration imported (took 4.168e+01 sec)!
+WIL 5 5	4.46530732e-02
+WIL 7 7	9.78223009e-03
+WIL 9 9	2.11060541e-03
+
+Measurement complete (took 1.017e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n13
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n13:
+
+Configuration imported (took 3.575e+01 sec)!
+WIL 5 5	4.46942697e-02
+WIL 7 7	9.72162662e-03
+WIL 9 9	2.09732120e-03
+
+Measurement complete (took 1.013e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n14
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n14:
+
+Configuration imported (took 5.124e+01 sec)!
+WIL 5 5	4.45578885e-02
+WIL 7 7	9.72084020e-03
+WIL 9 9	2.10387780e-03
+
+Measurement complete (took 1.026e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n15
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n15:
+
+Configuration imported (took 4.169e+01 sec)!
+WIL 5 5	4.45517905e-02
+WIL 7 7	9.70108670e-03
+WIL 9 9	2.10570191e-03
+
+Measurement complete (took 1.022e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n16
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n16:
+
+Configuration imported (took 3.435e+01 sec)!
+WIL 5 5	4.45395667e-02
+WIL 7 7	9.68288109e-03
+WIL 9 9	2.08218963e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n17
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n17:
+
+Configuration imported (took 4.088e+01 sec)!
+WIL 5 5	4.45889424e-02
+WIL 7 7	9.75044918e-03
+WIL 9 9	2.05345092e-03
+
+Measurement complete (took 1.024e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n18
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n18:
+
+Configuration imported (took 3.939e+01 sec)!
+WIL 5 5	4.45179153e-02
+WIL 7 7	9.70532968e-03
+WIL 9 9	2.11535929e-03
+
+Measurement complete (took 1.023e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n19
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n19:
+
+Configuration imported (took 3.725e+01 sec)!
+WIL 5 5	4.44326119e-02
+WIL 7 7	9.60798485e-03
+WIL 9 9	2.08058490e-03
+
+Measurement complete (took 1.000e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n20
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n20:
+
+Configuration imported (took 4.053e+01 sec)!
+WIL 5 5	4.45067540e-02
+WIL 7 7	9.63708182e-03
+WIL 9 9	2.04012478e-03
+
+Measurement complete (took 1.001e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n21
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n21:
+
+Configuration imported (took 3.500e+01 sec)!
+WIL 5 5	4.43721481e-02
+WIL 7 7	9.62378037e-03
+WIL 9 9	2.09168834e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n22
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n22:
+
+Configuration imported (took 3.417e+01 sec)!
+WIL 5 5	4.43935748e-02
+WIL 7 7	9.58407245e-03
+WIL 9 9	1.99909152e-03
+
+Measurement complete (took 1.007e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n23
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n23:
+
+Configuration imported (took 4.212e+01 sec)!
+WIL 5 5	4.44693499e-02
+WIL 7 7	9.60702530e-03
+WIL 9 9	2.09932608e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n24
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n24:
+
+Configuration imported (took 3.954e+01 sec)!
+WIL 5 5	4.44130420e-02
+WIL 7 7	9.64244471e-03
+WIL 9 9	2.03666014e-03
+
+Measurement complete (took 1.006e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n25
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n25:
+
+Configuration imported (took 3.545e+01 sec)!
+WIL 5 5	4.43782019e-02
+WIL 7 7	9.62212690e-03
+WIL 9 9	2.06315631e-03
+
+Measurement complete (took 1.002e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n26
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n26:
+
+Configuration imported (took 3.492e+01 sec)!
+WIL 5 5	4.44430280e-02
+WIL 7 7	9.64291231e-03
+WIL 9 9	2.04436598e-03
+
+Measurement complete (took 1.009e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n27
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n27:
+
+Configuration imported (took 3.414e+01 sec)!
+WIL 5 5	4.44080313e-02
+WIL 7 7	9.55382185e-03
+WIL 9 9	2.02194125e-03
+
+Measurement complete (took 1.008e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n28
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n28:
+
+Configuration imported (took 3.449e+01 sec)!
+WIL 5 5	4.44342983e-02
+WIL 7 7	9.64393486e-03
+WIL 9 9	2.07824158e-03
+
+Measurement complete (took 1.008e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n29
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n29:
+
+Configuration imported (took 3.499e+01 sec)!
+WIL 5 5	4.44404151e-02
+WIL 7 7	9.60503675e-03
+WIL 9 9	1.98566258e-03
+
+Measurement complete (took 1.008e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n30
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n30:
+
+Configuration imported (took 3.489e+01 sec)!
+WIL 5 5	4.43957494e-02
+WIL 7 7	9.61013757e-03
+WIL 9 9	2.01389767e-03
+
+Measurement complete (took 1.008e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n31
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n31:
+
+Configuration imported (took 3.642e+01 sec)!
+WIL 5 5	4.43404322e-02
+WIL 7 7	9.61470896e-03
+WIL 9 9	2.00951672e-03
+
+Measurement complete (took 1.013e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n32
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n32:
+
+Configuration imported (took 3.292e+01 sec)!
+WIL 5 5	4.44286397e-02
+WIL 7 7	9.60232811e-03
+WIL 9 9	2.03112523e-03
+
+Measurement complete (took 1.009e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n33
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n33:
+
+Configuration imported (took 3.560e+01 sec)!
+WIL 5 5	4.44050796e-02
+WIL 7 7	9.56306232e-03
+WIL 9 9	2.04716637e-03
+
+Measurement complete (took 1.013e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n34
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n34:
+
+Configuration imported (took 3.665e+01 sec)!
+WIL 5 5	4.43916387e-02
+WIL 7 7	9.58575044e-03
+WIL 9 9	2.06980967e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n35
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n35:
+
+Configuration imported (took 4.682e+01 sec)!
+WIL 5 5	4.44584211e-02
+WIL 7 7	9.56058599e-03
+WIL 9 9	2.00697162e-03
+
+Measurement complete (took 1.025e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n36
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n36:
+
+Configuration imported (took 5.118e+01 sec)!
+WIL 5 5	4.44893235e-02
+WIL 7 7	9.68177257e-03
+WIL 9 9	2.06764112e-03
+
+Measurement complete (took 1.029e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n37
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n37:
+
+Configuration imported (took 4.148e+01 sec)!
+WIL 5 5	4.43806360e-02
+WIL 7 7	9.59143875e-03
+WIL 9 9	1.98092662e-03
+
+Measurement complete (took 1.020e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n38
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n38:
+
+Configuration imported (took 4.423e+01 sec)!
+WIL 5 5	4.44304394e-02
+WIL 7 7	9.60172063e-03
+WIL 9 9	2.01165967e-03
+
+Measurement complete (took 1.022e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n39
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n39:
+
+Configuration imported (took 3.435e+01 sec)!
+WIL 5 5	4.44103845e-02
+WIL 7 7	9.56994102e-03
+WIL 9 9	1.98381100e-03
+
+Measurement complete (took 1.013e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n40
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n40:
+
+Configuration imported (took 4.725e+01 sec)!
+WIL 5 5	4.43841261e-02
+WIL 7 7	9.51941054e-03
+WIL 9 9	2.00003458e-03
+
+Measurement complete (took 1.026e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n41
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n41:
+
+Configuration imported (took 3.622e+01 sec)!
+WIL 5 5	4.43303825e-02
+WIL 7 7	9.57644837e-03
+WIL 9 9	2.02297341e-03
+
+Measurement complete (took 9.999e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n42
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n42:
+
+Configuration imported (took 5.073e+01 sec)!
+WIL 5 5	4.43239733e-02
+WIL 7 7	9.59029248e-03
+WIL 9 9	2.03052947e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n43
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n43:
+
+Configuration imported (took 3.818e+01 sec)!
+WIL 5 5	4.43861719e-02
+WIL 7 7	9.55628950e-03
+WIL 9 9	2.01076063e-03
+
+Measurement complete (took 1.038e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n44
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n44:
+
+Configuration imported (took 3.428e+01 sec)!
+WIL 5 5	4.44123248e-02
+WIL 7 7	9.64236607e-03
+WIL 9 9	2.04061542e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n45
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n45:
+
+Configuration imported (took 3.392e+01 sec)!
+WIL 5 5	4.43186243e-02
+WIL 7 7	9.57220776e-03
+WIL 9 9	2.01838206e-03
+
+Measurement complete (took 1.003e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n46
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n46:
+
+Configuration imported (took 3.554e+01 sec)!
+WIL 5 5	4.42897377e-02
+WIL 7 7	9.52521573e-03
+WIL 9 9	2.01265852e-03
+
+Measurement complete (took 1.003e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n47
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n47:
+
+Configuration imported (took 3.410e+01 sec)!
+WIL 5 5	4.44024291e-02
+WIL 7 7	9.56119346e-03
+WIL 9 9	2.03942242e-03
+
+Measurement complete (took 1.022e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n48
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n48:
+
+Configuration imported (took 4.216e+01 sec)!
+WIL 5 5	4.43792543e-02
+WIL 7 7	9.54964608e-03
+WIL 9 9	2.02623592e-03
+
+Measurement complete (took 1.031e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n49
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n49:
+
+Configuration imported (took 3.521e+01 sec)!
+WIL 5 5	4.44206048e-02
+WIL 7 7	9.53228862e-03
+WIL 9 9	2.04671813e-03
+
+Measurement complete (took 1.019e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n50
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n50:
+
+Configuration imported (took 3.781e+01 sec)!
+WIL 5 5	4.43473372e-02
+WIL 7 7	9.55398809e-03
+WIL 9 9	2.03771862e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n51
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n51:
+
+Configuration imported (took 1.081e+02 sec)!
+WIL 5 5	4.43350487e-02
+WIL 7 7	9.57124361e-03
+WIL 9 9	1.98954478e-03
+
+Measurement complete (took 1.086e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n52
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n52:
+
+Configuration imported (took 5.845e+01 sec)!
+WIL 5 5	4.43007890e-02
+WIL 7 7	9.48724302e-03
+WIL 9 9	1.99311778e-03
+
+Measurement complete (took 1.037e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n53
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n53:
+
+Configuration imported (took 3.426e+01 sec)!
+WIL 5 5	4.42970905e-02
+WIL 7 7	9.58896210e-03
+WIL 9 9	1.96134373e-03
+
+Measurement complete (took 9.950e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n54
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n54:
+
+Configuration imported (took 4.089e+01 sec)!
+WIL 5 5	4.43406949e-02
+WIL 7 7	9.52232470e-03
+WIL 9 9	2.00667446e-03
+
+Measurement complete (took 1.011e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n55
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n55:
+
+Configuration imported (took 3.609e+01 sec)!
+WIL 5 5	4.43078985e-02
+WIL 7 7	9.57696948e-03
+WIL 9 9	2.01382448e-03
+
+Measurement complete (took 1.010e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n56
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n56:
+
+Configuration imported (took 3.786e+01 sec)!
+WIL 5 5	4.42633440e-02
+WIL 7 7	9.53805808e-03
+WIL 9 9	2.05193974e-03
+
+Measurement complete (took 1.002e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n57
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n57:
+
+Configuration imported (took 3.553e+01 sec)!
+WIL 5 5	4.42817931e-02
+WIL 7 7	9.42642023e-03
+WIL 9 9	1.99262651e-03
+
+Measurement complete (took 1.004e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n58
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n58:
+
+Configuration imported (took 3.585e+01 sec)!
+WIL 5 5	4.44704572e-02
+WIL 7 7	9.49687316e-03
+WIL 9 9	2.04587289e-03
+
+Measurement complete (took 1.004e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n59
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n59:
+
+Configuration imported (took 4.187e+01 sec)!
+WIL 5 5	4.43667337e-02
+WIL 7 7	9.51461062e-03
+WIL 9 9	1.96780034e-03
+
+Measurement complete (took 1.010e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n60
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n60:
+
+Configuration imported (took 3.438e+01 sec)!
+WIL 5 5	4.43470411e-02
+WIL 7 7	9.50733769e-03
+WIL 9 9	1.98865661e-03
+
+Measurement complete (took 1.002e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n61
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n61:
+
+Configuration imported (took 4.205e+01 sec)!
+WIL 5 5	4.42687312e-02
+WIL 7 7	9.54960228e-03
+WIL 9 9	1.99973139e-03
+
+Measurement complete (took 1.026e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n62
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n62:
+
+Configuration imported (took 3.529e+01 sec)!
+WIL 5 5	4.43060609e-02
+WIL 7 7	9.56736628e-03
+WIL 9 9	1.96928785e-03
+
+Measurement complete (took 9.959e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n63
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n63:
+
+Configuration imported (took 3.953e+01 sec)!
+WIL 5 5	4.42964065e-02
+WIL 7 7	9.56905813e-03
+WIL 9 9	2.01328182e-03
+
+Measurement complete (took 1.023e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n64
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n64:
+
+Configuration imported (took 3.901e+01 sec)!
+WIL 5 5	4.43013338e-02
+WIL 7 7	9.49553294e-03
+WIL 9 9	1.93510141e-03
+
+Measurement complete (took 9.997e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n65
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n65:
+
+Configuration imported (took 4.237e+01 sec)!
+WIL 5 5	4.42964362e-02
+WIL 7 7	9.52004996e-03
+WIL 9 9	1.95119117e-03
+
+Measurement complete (took 1.003e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n66
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n66:
+
+Configuration imported (took 4.625e+01 sec)!
+WIL 5 5	4.42906032e-02
+WIL 7 7	9.50861131e-03
+WIL 9 9	1.96172285e-03
+
+Measurement complete (took 1.008e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n67
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n67:
+
+Configuration imported (took 3.726e+01 sec)!
+WIL 5 5	4.43741235e-02
+WIL 7 7	9.42646032e-03
+WIL 9 9	2.00043964e-03
+
+Measurement complete (took 1.018e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n68
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n68:
+
+Configuration imported (took 3.675e+01 sec)!
+WIL 5 5	4.43594951e-02
+WIL 7 7	9.53573359e-03
+WIL 9 9	2.02061262e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n69
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n69:
+
+Configuration imported (took 3.939e+01 sec)!
+WIL 5 5	4.43800558e-02
+WIL 7 7	9.62195683e-03
+WIL 9 9	2.02069881e-03
+
+Measurement complete (took 1.018e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n70
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n70:
+
+Configuration imported (took 3.388e+01 sec)!
+WIL 5 5	4.43276812e-02
+WIL 7 7	9.51093618e-03
+WIL 9 9	1.98540410e-03
+
+Measurement complete (took 1.013e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n71
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n71:
+
+Configuration imported (took 4.173e+01 sec)!
+WIL 5 5	4.43048302e-02
+WIL 7 7	9.51517125e-03
+WIL 9 9	2.00726248e-03
+
+Measurement complete (took 1.021e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n72
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n72:
+
+Configuration imported (took 3.342e+01 sec)!
+WIL 5 5	4.42889890e-02
+WIL 7 7	9.53465074e-03
+WIL 9 9	1.98387802e-03
+
+Measurement complete (took 1.013e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n73
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n73:
+
+Configuration imported (took 3.418e+01 sec)!
+WIL 5 5	4.43778990e-02
+WIL 7 7	9.55762368e-03
+WIL 9 9	1.99050816e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n74
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n74:
+
+Configuration imported (took 3.494e+01 sec)!
+WIL 5 5	4.43410049e-02
+WIL 7 7	9.53048580e-03
+WIL 9 9	1.96370528e-03
+
+Measurement complete (took 1.017e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n75
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n75:
+
+Configuration imported (took 3.907e+01 sec)!
+WIL 5 5	4.43234774e-02
+WIL 7 7	9.48151539e-03
+WIL 9 9	2.01841215e-03
+
+Measurement complete (took 1.020e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n76
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n76:
+
+Configuration imported (took 4.680e+01 sec)!
+WIL 5 5	4.43317877e-02
+WIL 7 7	9.54596987e-03
+WIL 9 9	1.96299028e-03
+
+Measurement complete (took 1.029e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n77
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n77:
+
+Configuration imported (took 3.501e+01 sec)!
+WIL 5 5	4.43093237e-02
+WIL 7 7	9.51715460e-03
+WIL 9 9	1.98214694e-03
+
+Measurement complete (took 1.026e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n78
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n78:
+
+Configuration imported (took 3.700e+01 sec)!
+WIL 5 5	4.43260393e-02
+WIL 7 7	9.53376594e-03
+WIL 9 9	2.00498036e-03
+
+Measurement complete (took 1.013e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n79
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n79:
+
+Configuration imported (took 3.539e+01 sec)!
+WIL 5 5	4.43270883e-02
+WIL 7 7	9.51423806e-03
+WIL 9 9	1.96300091e-03
+
+Measurement complete (took 1.017e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n80
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n80:
+
+Configuration imported (took 4.465e+01 sec)!
+WIL 5 5	4.43481594e-02
+WIL 7 7	9.54609733e-03
+WIL 9 9	1.96712085e-03
+
+Measurement complete (took 1.024e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n81
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n81:
+
+Configuration imported (took 3.887e+01 sec)!
+WIL 5 5	4.42736260e-02
+WIL 7 7	9.45501639e-03
+WIL 9 9	1.95351421e-03
+
+Measurement complete (took 1.018e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n82
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n82:
+
+Configuration imported (took 4.551e+01 sec)!
+WIL 5 5	4.42797341e-02
+WIL 7 7	9.42942599e-03
+WIL 9 9	1.94741413e-03
+
+Measurement complete (took 1.013e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n83
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n83:
+
+Configuration imported (took 3.518e+01 sec)!
+WIL 5 5	4.43542245e-02
+WIL 7 7	9.60436656e-03
+WIL 9 9	1.95188792e-03
+
+Measurement complete (took 1.002e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n84
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n84:
+
+Configuration imported (took 3.488e+01 sec)!
+WIL 5 5	4.43259567e-02
+WIL 7 7	9.58066597e-03
+WIL 9 9	2.06292016e-03
+
+Measurement complete (took 1.004e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n85
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n85:
+
+Configuration imported (took 4.243e+01 sec)!
+WIL 5 5	4.43150602e-02
+WIL 7 7	9.55823530e-03
+WIL 9 9	1.95457885e-03
+
+Measurement complete (took 1.012e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n86
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n86:
+
+Configuration imported (took 3.350e+01 sec)!
+WIL 5 5	4.43267592e-02
+WIL 7 7	9.49904136e-03
+WIL 9 9	2.02011488e-03
+
+Measurement complete (took 1.003e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n87
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n87:
+
+Configuration imported (took 3.943e+01 sec)!
+WIL 5 5	4.42938886e-02
+WIL 7 7	9.56514806e-03
+WIL 9 9	1.97892626e-03
+
+Measurement complete (took 1.006e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n88
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n88:
+
+Configuration imported (took 3.726e+01 sec)!
+WIL 5 5	4.42783841e-02
+WIL 7 7	9.53779512e-03
+WIL 9 9	1.95578068e-03
+
+Measurement complete (took 1.001e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n89
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n89:
+
+Configuration imported (took 4.980e+01 sec)!
+WIL 5 5	4.42849434e-02
+WIL 7 7	9.49089620e-03
+WIL 9 9	2.02116792e-03
+
+Measurement complete (took 1.011e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n90
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n90:
+
+Configuration imported (took 3.583e+01 sec)!
+WIL 5 5	4.42293557e-02
+WIL 7 7	9.50117246e-03
+WIL 9 9	2.03772538e-03
+
+Measurement complete (took 9.998e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n91
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n91:
+
+Configuration imported (took 3.628e+01 sec)!
+WIL 5 5	4.42846480e-02
+WIL 7 7	9.52331716e-03
+WIL 9 9	1.91592222e-03
+
+Measurement complete (took 9.979e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n92
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n92:
+
+Configuration imported (took 5.554e+01 sec)!
+WIL 5 5	4.42930970e-02
+WIL 7 7	9.47281993e-03
+WIL 9 9	1.93776608e-03
+
+Measurement complete (took 1.017e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n93
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n93:
+
+Configuration imported (took 3.690e+01 sec)!
+WIL 5 5	4.42679146e-02
+WIL 7 7	9.50341406e-03
+WIL 9 9	2.00196123e-03
+
+Measurement complete (took 9.985e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n94
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n94:
+
+Configuration imported (took 4.143e+01 sec)!
+WIL 5 5	4.43142473e-02
+WIL 7 7	9.48158870e-03
+WIL 9 9	1.92322186e-03
+
+Measurement complete (took 1.005e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n95
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n95:
+
+Configuration imported (took 4.579e+01 sec)!
+WIL 5 5	4.43369408e-02
+WIL 7 7	9.50673323e-03
+WIL 9 9	2.03896779e-03
+
+Measurement complete (took 1.007e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n96
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n96:
+
+Configuration imported (took 3.525e+01 sec)!
+WIL 5 5	4.43063865e-02
+WIL 7 7	9.56424494e-03
+WIL 9 9	1.98858079e-03
+
+Measurement complete (took 9.931e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n97
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n97:
+
+Configuration imported (took 3.683e+01 sec)!
+WIL 5 5	4.43443338e-02
+WIL 7 7	9.52821748e-03
+WIL 9 9	1.99710352e-03
+
+Measurement complete (took 1.000e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n98
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n98:
+
+Configuration imported (took 4.326e+01 sec)!
+WIL 5 5	4.42994089e-02
+WIL 7 7	9.51509978e-03
+WIL 9 9	2.00701824e-03
+
+Measurement complete (took 1.026e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n99
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n99:
+
+Configuration imported (took 3.368e+01 sec)!
+WIL 5 5	4.43287851e-02
+WIL 7 7	9.58628339e-03
+WIL 9 9	2.01589561e-03
+
+Measurement complete (took 1.023e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n100
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n100:
+
+Configuration imported (took 3.611e+01 sec)!
+WIL 5 5	4.42463982e-02
+WIL 7 7	9.49444615e-03
+WIL 9 9	2.02372412e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n101
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n101:
+
+Configuration imported (took 4.160e+01 sec)!
+WIL 5 5	4.42650606e-02
+WIL 7 7	9.47100977e-03
+WIL 9 9	1.96094376e-03
+
+Measurement complete (took 1.020e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n102
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n102:
+
+Configuration imported (took 3.657e+01 sec)!
+WIL 5 5	4.42686384e-02
+WIL 7 7	9.48400792e-03
+WIL 9 9	1.94681174e-03
+
+Measurement complete (took 1.009e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n103
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n103:
+
+Configuration imported (took 4.307e+01 sec)!
+WIL 5 5	4.42533427e-02
+WIL 7 7	9.55745327e-03
+WIL 9 9	1.95392648e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n104
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n104:
+
+Configuration imported (took 4.041e+01 sec)!
+WIL 5 5	4.41927870e-02
+WIL 7 7	9.51617051e-03
+WIL 9 9	1.94720641e-03
+
+Measurement complete (took 1.009e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n105
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n105:
+
+Configuration imported (took 3.829e+01 sec)!
+WIL 5 5	4.42332686e-02
+WIL 7 7	9.53302029e-03
+WIL 9 9	2.02938832e-03
+
+Measurement complete (took 1.007e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n106
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n106:
+
+Configuration imported (took 3.446e+01 sec)!
+WIL 5 5	4.42887988e-02
+WIL 7 7	9.55837701e-03
+WIL 9 9	1.97994909e-03
+
+Measurement complete (took 1.008e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n107
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n107:
+
+Configuration imported (took 3.422e+01 sec)!
+WIL 5 5	4.42413120e-02
+WIL 7 7	9.51450679e-03
+WIL 9 9	1.95868538e-03
+
+Measurement complete (took 1.008e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n108
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n108:
+
+Configuration imported (took 3.552e+01 sec)!
+WIL 5 5	4.42229767e-02
+WIL 7 7	9.51666208e-03
+WIL 9 9	2.01774808e-03
+
+Measurement complete (took 1.013e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n109
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n109:
+
+Configuration imported (took 3.346e+01 sec)!
+WIL 5 5	4.42674199e-02
+WIL 7 7	9.50422209e-03
+WIL 9 9	1.97997351e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n110
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n110:
+
+Configuration imported (took 3.398e+01 sec)!
+WIL 5 5	4.42947022e-02
+WIL 7 7	9.46337633e-03
+WIL 9 9	1.96804108e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n111
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n111:
+
+Configuration imported (took 3.366e+01 sec)!
+WIL 5 5	4.43006052e-02
+WIL 7 7	9.55374835e-03
+WIL 9 9	1.97062367e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n112
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n112:
+
+Configuration imported (took 3.520e+01 sec)!
+WIL 5 5	4.42866676e-02
+WIL 7 7	9.49163850e-03
+WIL 9 9	2.04536823e-03
+
+Measurement complete (took 1.013e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n113
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n113:
+
+Configuration imported (took 3.387e+01 sec)!
+WIL 5 5	4.42321784e-02
+WIL 7 7	9.44528307e-03
+WIL 9 9	1.93836316e-03
+
+Measurement complete (took 1.002e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n114
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n114:
+
+Configuration imported (took 3.404e+01 sec)!
+WIL 5 5	4.42421479e-02
+WIL 7 7	9.48819556e-03
+WIL 9 9	1.97991878e-03
+
+Measurement complete (took 1.002e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n115
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n115:
+
+Configuration imported (took 3.444e+01 sec)!
+WIL 5 5	4.42902710e-02
+WIL 7 7	9.44312760e-03
+WIL 9 9	1.96886114e-03
+
+Measurement complete (took 1.004e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n116
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n116:
+
+Configuration imported (took 3.620e+01 sec)!
+WIL 5 5	4.42342975e-02
+WIL 7 7	9.51669390e-03
+WIL 9 9	2.01880975e-03
+
+Measurement complete (took 9.943e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n117
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n117:
+
+Configuration imported (took 3.786e+01 sec)!
+WIL 5 5	4.42107977e-02
+WIL 7 7	9.46341015e-03
+WIL 9 9	1.95693023e-03
+
+Measurement complete (took 9.998e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n118
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n118:
+
+Configuration imported (took 4.827e+01 sec)!
+WIL 5 5	4.42199643e-02
+WIL 7 7	9.50347996e-03
+WIL 9 9	1.93163376e-03
+
+Measurement complete (took 1.007e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n119
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n119:
+
+Configuration imported (took 3.323e+01 sec)!
+WIL 5 5	4.41983643e-02
+WIL 7 7	9.46214076e-03
+WIL 9 9	1.95923467e-03
+
+Measurement complete (took 9.916e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n120
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n120:
+
+Configuration imported (took 3.533e+01 sec)!
+WIL 5 5	4.41849059e-02
+WIL 7 7	9.42706729e-03
+WIL 9 9	2.00537142e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n121
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n121:
+
+Configuration imported (took 3.462e+01 sec)!
+WIL 5 5	4.42897857e-02
+WIL 7 7	9.49327094e-03
+WIL 9 9	1.98340422e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n122
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n122:
+
+Configuration imported (took 3.797e+01 sec)!
+WIL 5 5	4.42235891e-02
+WIL 7 7	9.46982154e-03
+WIL 9 9	1.94187606e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n123
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n123:
+
+Configuration imported (took 3.618e+01 sec)!
+WIL 5 5	4.42641750e-02
+WIL 7 7	9.54389905e-03
+WIL 9 9	1.95145164e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n124
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n124:
+
+Configuration imported (took 3.548e+01 sec)!
+WIL 5 5	4.42544685e-02
+WIL 7 7	9.50501992e-03
+WIL 9 9	1.92618007e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n125
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n125:
+
+Configuration imported (took 4.022e+01 sec)!
+WIL 5 5	4.42868610e-02
+WIL 7 7	9.47925415e-03
+WIL 9 9	1.90896578e-03
+
+Measurement complete (took 1.019e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n126
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n126:
+
+Configuration imported (took 8.248e+01 sec)!
+WIL 5 5	4.42538151e-02
+WIL 7 7	9.48358232e-03
+WIL 9 9	1.95941826e-03
+
+Measurement complete (took 1.064e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n127
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n127:
+
+Configuration imported (took 3.414e+01 sec)!
+WIL 5 5	4.43352513e-02
+WIL 7 7	9.50219032e-03
+WIL 9 9	1.98455806e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n128
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n128:
+
+Configuration imported (took 6.231e+01 sec)!
+WIL 5 5	4.43216915e-02
+WIL 7 7	9.53298784e-03
+WIL 9 9	1.97172485e-03
+
+Measurement complete (took 1.060e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n129
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n129:
+
+Configuration imported (took 3.443e+01 sec)!
+WIL 5 5	4.42165813e-02
+WIL 7 7	9.50539683e-03
+WIL 9 9	2.03066552e-03
+
+Measurement complete (took 1.021e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n130
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n130:
+
+Configuration imported (took 3.562e+01 sec)!
+WIL 5 5	4.43140717e-02
+WIL 7 7	9.50264369e-03
+WIL 9 9	2.00904677e-03
+
+Measurement complete (took 1.021e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n131
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n131:
+
+Configuration imported (took 3.461e+01 sec)!
+WIL 5 5	4.41880804e-02
+WIL 7 7	9.54535765e-03
+WIL 9 9	2.06202723e-03
+
+Measurement complete (took 1.018e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n132
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n132:
+
+Configuration imported (took 3.602e+01 sec)!
+WIL 5 5	4.42553366e-02
+WIL 7 7	9.41921762e-03
+WIL 9 9	2.01528290e-03
+
+Measurement complete (took 1.019e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n133
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n133:
+
+Configuration imported (took 4.060e+01 sec)!
+WIL 5 5	4.43388202e-02
+WIL 7 7	9.48488348e-03
+WIL 9 9	1.94766789e-03
+
+Measurement complete (took 1.024e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n134
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n134:
+
+Configuration imported (took 3.561e+01 sec)!
+WIL 5 5	4.42203127e-02
+WIL 7 7	9.54510659e-03
+WIL 9 9	2.03396614e-03
+
+Measurement complete (took 1.023e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n135
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n135:
+
+Configuration imported (took 3.371e+01 sec)!
+WIL 5 5	4.43636632e-02
+WIL 7 7	9.52491181e-03
+WIL 9 9	1.95194398e-03
+
+Measurement complete (took 1.020e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n136
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n136:
+
+Configuration imported (took 3.495e+01 sec)!
+WIL 5 5	4.42521410e-02
+WIL 7 7	9.55556710e-03
+WIL 9 9	1.92844349e-03
+
+Measurement complete (took 1.022e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n137
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n137:
+
+Configuration imported (took 3.479e+01 sec)!
+WIL 5 5	4.42340586e-02
+WIL 7 7	9.52454627e-03
+WIL 9 9	1.99417368e-03
+
+Measurement complete (took 1.023e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n138
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n138:
+
+Configuration imported (took 3.439e+01 sec)!
+WIL 5 5	4.43491002e-02
+WIL 7 7	9.53747444e-03
+WIL 9 9	1.95887800e-03
+
+Measurement complete (took 1.023e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n139
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n139:
+
+Configuration imported (took 3.455e+01 sec)!
+WIL 5 5	4.42558893e-02
+WIL 7 7	9.48257027e-03
+WIL 9 9	1.94191905e-03
+
+Measurement complete (took 1.021e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n140
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n140:
+
+Configuration imported (took 3.291e+01 sec)!
+WIL 5 5	4.42959590e-02
+WIL 7 7	9.48823335e-03
+WIL 9 9	1.94322397e-03
+
+Measurement complete (took 1.019e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n141
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n141:
+
+Configuration imported (took 3.504e+01 sec)!
+WIL 5 5	4.42942145e-02
+WIL 7 7	9.51306981e-03
+WIL 9 9	1.94800700e-03
+
+Measurement complete (took 1.021e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n142
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n142:
+
+Configuration imported (took 4.219e+01 sec)!
+WIL 5 5	4.42877908e-02
+WIL 7 7	9.52959553e-03
+WIL 9 9	1.94858668e-03
+
+Measurement complete (took 1.028e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n143
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n143:
+
+Configuration imported (took 4.048e+01 sec)!
+WIL 5 5	4.42220417e-02
+WIL 7 7	9.53231439e-03
+WIL 9 9	1.97512348e-03
+
+Measurement complete (took 1.025e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n144
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n144:
+
+Configuration imported (took 3.480e+01 sec)!
+WIL 5 5	4.42059648e-02
+WIL 7 7	9.49163942e-03
+WIL 9 9	1.99276379e-03
+
+Measurement complete (took 1.018e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n145
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n145:
+
+Configuration imported (took 3.760e+01 sec)!
+WIL 5 5	4.43121397e-02
+WIL 7 7	9.46162059e-03
+WIL 9 9	1.95225254e-03
+
+Measurement complete (took 1.021e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n146
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n146:
+
+Configuration imported (took 3.397e+01 sec)!
+WIL 5 5	4.42586534e-02
+WIL 7 7	9.52328754e-03
+WIL 9 9	1.99026406e-03
+
+Measurement complete (took 1.012e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n147
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n147:
+
+Configuration imported (took 4.100e+01 sec)!
+WIL 5 5	4.42705728e-02
+WIL 7 7	9.49398361e-03
+WIL 9 9	2.02872978e-03
+
+Measurement complete (took 1.017e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n148
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n148:
+
+Configuration imported (took 3.568e+01 sec)!
+WIL 5 5	4.42386213e-02
+WIL 7 7	9.49003074e-03
+WIL 9 9	1.94654488e-03
+
+Measurement complete (took 1.022e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n149
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n149:
+
+Configuration imported (took 5.539e+01 sec)!
+WIL 5 5	4.43033059e-02
+WIL 7 7	9.51791151e-03
+WIL 9 9	1.94946216e-03
+
+Measurement complete (took 1.048e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n150
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n150:
+
+Configuration imported (took 3.307e+01 sec)!
+WIL 5 5	4.42881233e-02
+WIL 7 7	9.48474450e-03
+WIL 9 9	2.01238016e-03
+
+Measurement complete (took 1.025e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n151
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n151:
+
+Configuration imported (took 3.303e+01 sec)!
+WIL 5 5	4.42697975e-02
+WIL 7 7	9.53012059e-03
+WIL 9 9	1.92888188e-03
+
+Measurement complete (took 1.026e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n152
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n152:
+
+Configuration imported (took 3.251e+01 sec)!
+WIL 5 5	4.42322619e-02
+WIL 7 7	9.50376923e-03
+WIL 9 9	1.93810249e-03
+
+Measurement complete (took 1.005e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n153
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n153:
+
+Configuration imported (took 3.507e+01 sec)!
+WIL 5 5	4.42320441e-02
+WIL 7 7	9.46027065e-03
+WIL 9 9	1.95912544e-03
+
+Measurement complete (took 1.007e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n154
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n154:
+
+Configuration imported (took 3.560e+01 sec)!
+WIL 5 5	4.42365356e-02
+WIL 7 7	9.46082822e-03
+WIL 9 9	1.97512094e-03
+
+Measurement complete (took 1.006e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n155
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n155:
+
+Configuration imported (took 4.038e+01 sec)!
+WIL 5 5	4.42608320e-02
+WIL 7 7	9.51716430e-03
+WIL 9 9	2.01110752e-03
+
+Measurement complete (took 1.011e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n156
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n156:
+
+Configuration imported (took 3.468e+01 sec)!
+WIL 5 5	4.42482886e-02
+WIL 7 7	9.48015160e-03
+WIL 9 9	1.88690307e-03
+
+Measurement complete (took 1.003e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n157
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n157:
+
+Configuration imported (took 3.960e+01 sec)!
+WIL 5 5	4.42360317e-02
+WIL 7 7	9.49088957e-03
+WIL 9 9	2.02804826e-03
+
+Measurement complete (took 1.005e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n158
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n158:
+
+Configuration imported (took 3.456e+01 sec)!
+WIL 5 5	4.41881103e-02
+WIL 7 7	9.48654427e-03
+WIL 9 9	1.98976216e-03
+
+Measurement complete (took 1.002e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n159
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n159:
+
+Configuration imported (took 3.771e+01 sec)!
+WIL 5 5	4.41881917e-02
+WIL 7 7	9.49332949e-03
+WIL 9 9	1.95341919e-03
+
+Measurement complete (took 1.005e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n160
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n160:
+
+Configuration imported (took 4.032e+01 sec)!
+WIL 5 5	4.42650628e-02
+WIL 7 7	9.52863439e-03
+WIL 9 9	1.97783950e-03
+
+Measurement complete (took 1.005e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n161
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n161:
+
+Configuration imported (took 4.268e+01 sec)!
+WIL 5 5	4.42989718e-02
+WIL 7 7	9.46999562e-03
+WIL 9 9	2.02241977e-03
+
+Measurement complete (took 1.006e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n162
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n162:
+
+Configuration imported (took 4.148e+01 sec)!
+WIL 5 5	4.43187101e-02
+WIL 7 7	9.55813931e-03
+WIL 9 9	1.90652158e-03
+
+Measurement complete (took 1.004e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n163
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n163:
+
+Configuration imported (took 3.375e+01 sec)!
+WIL 5 5	4.42759792e-02
+WIL 7 7	9.51938282e-03
+WIL 9 9	1.91455012e-03
+
+Measurement complete (took 9.966e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n164
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n164:
+
+Configuration imported (took 3.807e+01 sec)!
+WIL 5 5	4.42617553e-02
+WIL 7 7	9.50752132e-03
+WIL 9 9	1.99448620e-03
+
+Measurement complete (took 1.008e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n165
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n165:
+
+Configuration imported (took 3.276e+01 sec)!
+WIL 5 5	4.42430538e-02
+WIL 7 7	9.45869391e-03
+WIL 9 9	2.00216527e-03
+
+Measurement complete (took 1.003e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n166
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n166:
+
+Configuration imported (took 3.602e+01 sec)!
+WIL 5 5	4.42742028e-02
+WIL 7 7	9.47242829e-03
+WIL 9 9	1.93078945e-03
+
+Measurement complete (took 1.006e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n167
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n167:
+
+Configuration imported (took 3.463e+01 sec)!
+WIL 5 5	4.43058910e-02
+WIL 7 7	9.53971535e-03
+WIL 9 9	1.92794662e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n168
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n168:
+
+Configuration imported (took 3.584e+01 sec)!
+WIL 5 5	4.43053554e-02
+WIL 7 7	9.52246124e-03
+WIL 9 9	1.96843954e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n169
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n169:
+
+Configuration imported (took 4.614e+01 sec)!
+WIL 5 5	4.43162088e-02
+WIL 7 7	9.50532395e-03
+WIL 9 9	2.04893613e-03
+
+Measurement complete (took 1.028e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n170
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n170:
+
+Configuration imported (took 3.643e+01 sec)!
+WIL 5 5	4.43168877e-02
+WIL 7 7	9.50130860e-03
+WIL 9 9	1.94600224e-03
+
+Measurement complete (took 1.018e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n171
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n171:
+
+Configuration imported (took 3.511e+01 sec)!
+WIL 5 5	4.43593495e-02
+WIL 7 7	9.60350471e-03
+WIL 9 9	2.02824116e-03
+
+Measurement complete (took 1.013e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n172
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n172:
+
+Configuration imported (took 3.611e+01 sec)!
+WIL 5 5	4.43523417e-02
+WIL 7 7	9.48089955e-03
+WIL 9 9	1.87753898e-03
+
+Measurement complete (took 1.026e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n173
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n173:
+
+Configuration imported (took 7.405e+01 sec)!
+WIL 5 5	4.43339257e-02
+WIL 7 7	9.52321245e-03
+WIL 9 9	1.94082975e-03
+
+Measurement complete (took 1.065e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n174
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n174:
+
+Configuration imported (took 3.599e+01 sec)!
+WIL 5 5	4.42665740e-02
+WIL 7 7	9.50459305e-03
+WIL 9 9	1.98339415e-03
+
+Measurement complete (took 1.027e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n175
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n175:
+
+Configuration imported (took 4.863e+01 sec)!
+WIL 5 5	4.43645748e-02
+WIL 7 7	9.51548116e-03
+WIL 9 9	1.97712645e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n176
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n176:
+
+Configuration imported (took 4.535e+01 sec)!
+WIL 5 5	4.43282715e-02
+WIL 7 7	9.53441412e-03
+WIL 9 9	1.97107475e-03
+
+Measurement complete (took 1.012e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n177
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n177:
+
+Configuration imported (took 3.512e+01 sec)!
+WIL 5 5	4.43129183e-02
+WIL 7 7	9.45959896e-03
+WIL 9 9	1.93262992e-03
+
+Measurement complete (took 1.002e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n178
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n178:
+
+Configuration imported (took 3.734e+01 sec)!
+WIL 5 5	4.42701573e-02
+WIL 7 7	9.48268936e-03
+WIL 9 9	1.96800571e-03
+
+Measurement complete (took 9.951e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n179
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n179:
+
+Configuration imported (took 4.468e+01 sec)!
+WIL 5 5	4.42921340e-02
+WIL 7 7	9.52132532e-03
+WIL 9 9	1.98627273e-03
+
+Measurement complete (took 1.006e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n180
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n180:
+
+Configuration imported (took 3.373e+01 sec)!
+WIL 5 5	4.41973923e-02
+WIL 7 7	9.51263768e-03
+WIL 9 9	1.99585306e-03
+
+Measurement complete (took 9.959e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n181
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n181:
+
+Configuration imported (took 3.676e+01 sec)!
+WIL 5 5	4.42985946e-02
+WIL 7 7	9.53559685e-03
+WIL 9 9	2.00856833e-03
+
+Measurement complete (took 9.987e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n182
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n182:
+
+Configuration imported (took 3.447e+01 sec)!
+WIL 5 5	4.42748775e-02
+WIL 7 7	9.54672045e-03
+WIL 9 9	1.93983059e-03
+
+Measurement complete (took 9.958e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n183
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n183:
+
+Configuration imported (took 3.392e+01 sec)!
+WIL 5 5	4.43060127e-02
+WIL 7 7	9.45360134e-03
+WIL 9 9	1.94879938e-03
+
+Measurement complete (took 1.023e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n184
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n184:
+
+Configuration imported (took 3.378e+01 sec)!
+WIL 5 5	4.43302824e-02
+WIL 7 7	9.45144903e-03
+WIL 9 9	2.01885307e-03
+
+Measurement complete (took 1.023e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n185
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n185:
+
+Configuration imported (took 4.181e+01 sec)!
+WIL 5 5	4.43314444e-02
+WIL 7 7	9.51817599e-03
+WIL 9 9	2.01142888e-03
+
+Measurement complete (took 1.030e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n186
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n186:
+
+Configuration imported (took 4.144e+01 sec)!
+WIL 5 5	4.43604089e-02
+WIL 7 7	9.48407798e-03
+WIL 9 9	1.94456902e-03
+
+Measurement complete (took 1.030e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n187
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n187:
+
+Configuration imported (took 3.497e+01 sec)!
+WIL 5 5	4.43858546e-02
+WIL 7 7	9.51809256e-03
+WIL 9 9	2.01147564e-03
+
+Measurement complete (took 1.024e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n188
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n188:
+
+Configuration imported (took 3.820e+01 sec)!
+WIL 5 5	4.43689162e-02
+WIL 7 7	9.50867619e-03
+WIL 9 9	1.95612605e-03
+
+Measurement complete (took 1.005e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n189
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n189:
+
+Configuration imported (took 3.542e+01 sec)!
+WIL 5 5	4.43176746e-02
+WIL 7 7	9.51749321e-03
+WIL 9 9	1.99890568e-03
+
+Measurement complete (took 9.981e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n190
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n190:
+
+Configuration imported (took 3.873e+01 sec)!
+WIL 5 5	4.43218218e-02
+WIL 7 7	9.51357796e-03
+WIL 9 9	2.06068778e-03
+
+Measurement complete (took 1.026e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n191
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n191:
+
+Configuration imported (took 3.737e+01 sec)!
+WIL 5 5	4.43180979e-02
+WIL 7 7	9.50911641e-03
+WIL 9 9	1.97375565e-03
+
+Measurement complete (took 1.025e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n192
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n192:
+
+Configuration imported (took 6.348e+01 sec)!
+WIL 5 5	4.43223341e-02
+WIL 7 7	9.57635637e-03
+WIL 9 9	2.00319794e-03
+
+Measurement complete (took 1.043e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n193
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n193:
+
+Configuration imported (took 3.968e+01 sec)!
+WIL 5 5	4.42951416e-02
+WIL 7 7	9.51273299e-03
+WIL 9 9	2.00739332e-03
+
+Measurement complete (took 1.017e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n194
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n194:
+
+Configuration imported (took 5.317e+01 sec)!
+WIL 5 5	4.42677904e-02
+WIL 7 7	9.48025492e-03
+WIL 9 9	1.98642041e-03
+
+Measurement complete (took 1.033e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n195
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n195:
+
+Configuration imported (took 3.807e+01 sec)!
+WIL 5 5	4.42819342e-02
+WIL 7 7	9.46121520e-03
+WIL 9 9	1.98436873e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n196
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n196:
+
+Configuration imported (took 3.458e+01 sec)!
+WIL 5 5	4.43423134e-02
+WIL 7 7	9.57143541e-03
+WIL 9 9	1.95741294e-03
+
+Measurement complete (took 1.011e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n197
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n197:
+
+Configuration imported (took 3.786e+01 sec)!
+WIL 5 5	4.42711304e-02
+WIL 7 7	9.47533008e-03
+WIL 9 9	1.97209191e-03
+
+Measurement complete (took 1.018e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n198
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n198:
+
+Configuration imported (took 3.628e+01 sec)!
+WIL 5 5	4.43532754e-02
+WIL 7 7	9.46859746e-03
+WIL 9 9	1.97612078e-03
+
+Measurement complete (took 1.017e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n199
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n199:
+
+Configuration imported (took 3.360e+01 sec)!
+WIL 5 5	4.42726750e-02
+WIL 7 7	9.46956127e-03
+WIL 9 9	1.96321129e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n200
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n200:
+
+Configuration imported (took 4.211e+01 sec)!
+WIL 5 5	4.43469884e-02
+WIL 7 7	9.53190346e-03
+WIL 9 9	1.98866064e-03
+
+Measurement complete (took 1.023e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n201
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n201:
+
+Configuration imported (took 3.709e+01 sec)!
+WIL 5 5	4.42952210e-02
+WIL 7 7	9.55886178e-03
+WIL 9 9	1.98663592e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n202
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n202:
+
+Configuration imported (took 3.879e+01 sec)!
+WIL 5 5	4.42776512e-02
+WIL 7 7	9.48953807e-03
+WIL 9 9	1.93621113e-03
+
+Measurement complete (took 1.017e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n203
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n203:
+
+Configuration imported (took 3.764e+01 sec)!
+WIL 5 5	4.42570494e-02
+WIL 7 7	9.46122717e-03
+WIL 9 9	1.95292093e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n204
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n204:
+
+Configuration imported (took 3.825e+01 sec)!
+WIL 5 5	4.43141493e-02
+WIL 7 7	9.53352324e-03
+WIL 9 9	1.93114187e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n205
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n205:
+
+Configuration imported (took 3.383e+01 sec)!
+WIL 5 5	4.42104938e-02
+WIL 7 7	9.43989176e-03
+WIL 9 9	1.88481165e-03
+
+Measurement complete (took 1.010e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n206
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n206:
+
+Configuration imported (took 4.016e+01 sec)!
+WIL 5 5	4.42636853e-02
+WIL 7 7	9.50752980e-03
+WIL 9 9	1.93613701e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n207
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n207:
+
+Configuration imported (took 3.344e+01 sec)!
+WIL 5 5	4.43149739e-02
+WIL 7 7	9.47200694e-03
+WIL 9 9	1.97992350e-03
+
+Measurement complete (took 1.010e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n208
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n208:
+
+Configuration imported (took 3.390e+01 sec)!
+WIL 5 5	4.42624580e-02
+WIL 7 7	9.50320084e-03
+WIL 9 9	2.00719704e-03
+
+Measurement complete (took 1.010e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n209
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n209:
+
+Configuration imported (took 3.407e+01 sec)!
+WIL 5 5	4.42148081e-02
+WIL 7 7	9.55826957e-03
+WIL 9 9	1.95142294e-03
+
+Measurement complete (took 1.010e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n210
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n210:
+
+Configuration imported (took 4.201e+01 sec)!
+WIL 5 5	4.42673332e-02
+WIL 7 7	9.48812755e-03
+WIL 9 9	1.96984595e-03
+
+Measurement complete (took 1.021e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n211
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n211:
+
+Configuration imported (took 3.372e+01 sec)!
+WIL 5 5	4.43062784e-02
+WIL 7 7	9.41187572e-03
+WIL 9 9	2.00358467e-03
+
+Measurement complete (took 1.012e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n212
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n212:
+
+Configuration imported (took 5.789e+01 sec)!
+WIL 5 5	4.42737145e-02
+WIL 7 7	9.52872016e-03
+WIL 9 9	1.94420248e-03
+
+Measurement complete (took 1.042e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n213
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n213:
+
+Configuration imported (took 3.496e+01 sec)!
+WIL 5 5	4.41865198e-02
+WIL 7 7	9.43547198e-03
+WIL 9 9	1.93034513e-03
+
+Measurement complete (took 1.019e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n214
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n214:
+
+Configuration imported (took 7.630e+01 sec)!
+WIL 5 5	4.42241638e-02
+WIL 7 7	9.47461476e-03
+WIL 9 9	1.93157361e-03
+
+Measurement complete (took 1.057e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n215
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n215:
+
+Configuration imported (took 3.472e+01 sec)!
+WIL 5 5	4.42930111e-02
+WIL 7 7	9.52496473e-03
+WIL 9 9	1.97711107e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n216
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n216:
+
+Configuration imported (took 3.407e+01 sec)!
+WIL 5 5	4.43195786e-02
+WIL 7 7	9.56344946e-03
+WIL 9 9	1.99662324e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n217
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n217:
+
+Configuration imported (took 3.578e+01 sec)!
+WIL 5 5	4.42477856e-02
+WIL 7 7	9.46214168e-03
+WIL 9 9	1.97382676e-03
+
+Measurement complete (took 1.017e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n218
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n218:
+
+Configuration imported (took 3.527e+01 sec)!
+WIL 5 5	4.43355383e-02
+WIL 7 7	9.51601250e-03
+WIL 9 9	1.96814604e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n219
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n219:
+
+Configuration imported (took 3.483e+01 sec)!
+WIL 5 5	4.42737702e-02
+WIL 7 7	9.43281997e-03
+WIL 9 9	2.02898110e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n220
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n220:
+
+Configuration imported (took 3.527e+01 sec)!
+WIL 5 5	4.42948298e-02
+WIL 7 7	9.53212126e-03
+WIL 9 9	1.91839352e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n221
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n221:
+
+Configuration imported (took 3.541e+01 sec)!
+WIL 5 5	4.42905916e-02
+WIL 7 7	9.54807044e-03
+WIL 9 9	1.98278485e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n222
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n222:
+
+Configuration imported (took 3.551e+01 sec)!
+WIL 5 5	4.43282106e-02
+WIL 7 7	9.47938462e-03
+WIL 9 9	1.93019111e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n223
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n223:
+
+Configuration imported (took 3.458e+01 sec)!
+WIL 5 5	4.43438620e-02
+WIL 7 7	9.56416218e-03
+WIL 9 9	2.00889322e-03
+
+Measurement complete (took 1.017e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n224
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n224:
+
+Configuration imported (took 3.630e+01 sec)!
+WIL 5 5	4.43651743e-02
+WIL 7 7	9.50795955e-03
+WIL 9 9	1.96462635e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n225
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n225:
+
+Configuration imported (took 4.193e+01 sec)!
+WIL 5 5	4.42598078e-02
+WIL 7 7	9.43561191e-03
+WIL 9 9	1.95710544e-03
+
+Measurement complete (took 1.020e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n226
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n226:
+
+Configuration imported (took 5.054e+01 sec)!
+WIL 5 5	4.42494379e-02
+WIL 7 7	9.49758217e-03
+WIL 9 9	1.99356558e-03
+
+Measurement complete (took 1.030e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n227
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n227:
+
+Configuration imported (took 3.418e+01 sec)!
+WIL 5 5	4.42255670e-02
+WIL 7 7	9.51574256e-03
+WIL 9 9	1.97776424e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n228
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n228:
+
+Configuration imported (took 5.349e+01 sec)!
+WIL 5 5	4.42446356e-02
+WIL 7 7	9.52732649e-03
+WIL 9 9	2.02914243e-03
+
+Measurement complete (took 1.030e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n229
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n229:
+
+Configuration imported (took 3.470e+01 sec)!
+WIL 5 5	4.43138363e-02
+WIL 7 7	9.50343950e-03
+WIL 9 9	1.97243404e-03
+
+Measurement complete (took 9.972e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n230
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n230:
+
+Configuration imported (took 3.603e+01 sec)!
+WIL 5 5	4.43263241e-02
+WIL 7 7	9.46827307e-03
+WIL 9 9	1.97256744e-03
+
+Measurement complete (took 9.973e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n231
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n231:
+
+Configuration imported (took 3.816e+01 sec)!
+WIL 5 5	4.43241375e-02
+WIL 7 7	9.51863721e-03
+WIL 9 9	1.96874735e-03
+
+Measurement complete (took 1.008e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n232
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n232:
+
+Configuration imported (took 4.018e+01 sec)!
+WIL 5 5	4.42959222e-02
+WIL 7 7	9.46994140e-03
+WIL 9 9	1.90980049e-03
+
+Measurement complete (took 1.032e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n233
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n233:
+
+Configuration imported (took 4.183e+01 sec)!
+WIL 5 5	4.42833949e-02
+WIL 7 7	9.46823514e-03
+WIL 9 9	1.97296448e-03
+
+Measurement complete (took 1.029e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n234
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n234:
+
+Configuration imported (took 3.773e+01 sec)!
+WIL 5 5	4.42662801e-02
+WIL 7 7	9.54243351e-03
+WIL 9 9	1.99359546e-03
+
+Measurement complete (took 1.022e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n235
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n235:
+
+Configuration imported (took 4.062e+01 sec)!
+WIL 5 5	4.43298494e-02
+WIL 7 7	9.40695964e-03
+WIL 9 9	1.91286521e-03
+
+Measurement complete (took 1.027e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n236
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n236:
+
+Configuration imported (took 3.458e+01 sec)!
+WIL 5 5	4.42440859e-02
+WIL 7 7	9.55271892e-03
+WIL 9 9	2.00182781e-03
+
+Measurement complete (took 1.021e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n237
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n237:
+
+Configuration imported (took 3.434e+01 sec)!
+WIL 5 5	4.42365535e-02
+WIL 7 7	9.54371049e-03
+WIL 9 9	1.96215371e-03
+
+Measurement complete (took 1.021e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n238
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n238:
+
+Configuration imported (took 4.122e+01 sec)!
+WIL 5 5	4.42666426e-02
+WIL 7 7	9.52103742e-03
+WIL 9 9	1.97860343e-03
+
+Measurement complete (took 1.031e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n239
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n239:
+
+Configuration imported (took 3.285e+01 sec)!
+WIL 5 5	4.43129002e-02
+WIL 7 7	9.55758949e-03
+WIL 9 9	1.97384551e-03
+
+Measurement complete (took 1.022e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n240
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n240:
+
+Configuration imported (took 3.449e+01 sec)!
+WIL 5 5	4.43110184e-02
+WIL 7 7	9.55746931e-03
+WIL 9 9	1.96898155e-03
+
+Measurement complete (took 1.023e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n241
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n241:
+
+Configuration imported (took 3.454e+01 sec)!
+WIL 5 5	4.42860020e-02
+WIL 7 7	9.50443440e-03
+WIL 9 9	1.96118521e-03
+
+Measurement complete (took 1.007e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n242
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n242:
+
+Configuration imported (took 3.558e+01 sec)!
+WIL 5 5	4.42316849e-02
+WIL 7 7	9.52193370e-03
+WIL 9 9	1.98146660e-03
+
+Measurement complete (took 1.018e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n243
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n243:
+
+Configuration imported (took 3.590e+01 sec)!
+WIL 5 5	4.42694301e-02
+WIL 7 7	9.49386409e-03
+WIL 9 9	2.00030126e-03
+
+Measurement complete (took 1.020e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n244
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n244:
+
+Configuration imported (took 3.924e+01 sec)!
+WIL 5 5	4.42306695e-02
+WIL 7 7	9.47585574e-03
+WIL 9 9	1.99778217e-03
+
+Measurement complete (took 1.004e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n245
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n245:
+
+Configuration imported (took 3.942e+01 sec)!
+WIL 5 5	4.42092881e-02
+WIL 7 7	9.46339169e-03
+WIL 9 9	1.99216272e-03
+
+Measurement complete (took 1.004e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n246
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n246:
+
+Configuration imported (took 3.610e+01 sec)!
+WIL 5 5	4.42051249e-02
+WIL 7 7	9.48817879e-03
+WIL 9 9	2.00680367e-03
+
+Measurement complete (took 9.994e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n247
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n247:
+
+Configuration imported (took 3.465e+01 sec)!
+WIL 5 5	4.41924756e-02
+WIL 7 7	9.44370937e-03
+WIL 9 9	1.98343340e-03
+
+Measurement complete (took 9.997e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n248
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n248:
+
+Configuration imported (took 3.432e+01 sec)!
+WIL 5 5	4.42418768e-02
+WIL 7 7	9.50735357e-03
+WIL 9 9	2.02458889e-03
+
+Measurement complete (took 1.001e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n249
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n249:
+
+Configuration imported (took 4.131e+01 sec)!
+WIL 5 5	4.42505074e-02
+WIL 7 7	9.46563610e-03
+WIL 9 9	1.99700478e-03
+
+Measurement complete (took 9.998e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n250
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n250:
+
+Configuration imported (took 9.289e+01 sec)!
+WIL 5 5	4.42053489e-02
+WIL 7 7	9.44785734e-03
+WIL 9 9	1.96325128e-03
+
+Measurement complete (took 1.052e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n251
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n251:
+
+Configuration imported (took 8.545e+01 sec)!
+WIL 5 5	4.42326428e-02
+WIL 7 7	9.47934950e-03
+WIL 9 9	1.97592514e-03
+
+Measurement complete (took 1.044e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n252
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n252:
+
+Configuration imported (took 3.516e+01 sec)!
+WIL 5 5	4.42299196e-02
+WIL 7 7	9.48008750e-03
+WIL 9 9	1.94164224e-03
+
+Measurement complete (took 9.966e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n253
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n253:
+
+Configuration imported (took 3.208e+01 sec)!
+WIL 5 5	4.43299642e-02
+WIL 7 7	9.43122565e-03
+WIL 9 9	1.96892720e-03
+
+Measurement complete (took 9.934e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n254
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n254:
+
+Configuration imported (took 3.560e+01 sec)!
+WIL 5 5	4.43081925e-02
+WIL 7 7	9.43999306e-03
+WIL 9 9	1.94032677e-03
+
+Measurement complete (took 9.978e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n255
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n255:
+
+Configuration imported (took 3.559e+01 sec)!
+WIL 5 5	4.42522558e-02
+WIL 7 7	9.56311703e-03
+WIL 9 9	1.95717259e-03
+
+Measurement complete (took 9.940e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n256
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n256:
+
+Configuration imported (took 3.511e+01 sec)!
+WIL 5 5	4.42182932e-02
+WIL 7 7	9.45967893e-03
+WIL 9 9	1.94372418e-03
+
+Measurement complete (took 9.937e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n257
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n257:
+
+Configuration imported (took 3.560e+01 sec)!
+WIL 5 5	4.42402973e-02
+WIL 7 7	9.43704685e-03
+WIL 9 9	1.96133128e-03
+
+Measurement complete (took 9.957e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n258
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n258:
+
+Configuration imported (took 3.683e+01 sec)!
+WIL 5 5	4.42907971e-02
+WIL 7 7	9.53185437e-03
+WIL 9 9	1.88517063e-03
+
+Measurement complete (took 9.974e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n259
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n259:
+
+Configuration imported (took 3.665e+01 sec)!
+WIL 5 5	4.42586629e-02
+WIL 7 7	9.41825819e-03
+WIL 9 9	1.96678279e-03
+
+Measurement complete (took 9.971e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n260
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n260:
+
+Configuration imported (took 4.128e+01 sec)!
+WIL 5 5	4.42142801e-02
+WIL 7 7	9.47541932e-03
+WIL 9 9	1.97934897e-03
+
+Measurement complete (took 1.007e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n261
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n261:
+
+Configuration imported (took 3.482e+01 sec)!
+WIL 5 5	4.42636162e-02
+WIL 7 7	9.47493813e-03
+WIL 9 9	1.97018143e-03
+
+Measurement complete (took 1.000e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n262
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n262:
+
+Configuration imported (took 4.185e+01 sec)!
+WIL 5 5	4.42480458e-02
+WIL 7 7	9.55720364e-03
+WIL 9 9	1.95792952e-03
+
+Measurement complete (took 1.002e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n263
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n263:
+
+Configuration imported (took 3.799e+01 sec)!
+WIL 5 5	4.42525538e-02
+WIL 7 7	9.47884332e-03
+WIL 9 9	1.99431606e-03
+
+Measurement complete (took 1.019e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n264
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n264:
+
+Configuration imported (took 4.020e+01 sec)!
+WIL 5 5	4.42236989e-02
+WIL 7 7	9.43043744e-03
+WIL 9 9	1.98433420e-03
+
+Measurement complete (took 1.026e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n265
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n265:
+
+Configuration imported (took 3.591e+01 sec)!
+WIL 5 5	4.43095662e-02
+WIL 7 7	9.52935775e-03
+WIL 9 9	2.01880244e-03
+
+Measurement complete (took 1.010e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n266
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n266:
+
+Configuration imported (took 3.260e+01 sec)!
+WIL 5 5	4.42373618e-02
+WIL 7 7	9.48322471e-03
+WIL 9 9	1.96067985e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n267
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n267:
+
+Configuration imported (took 4.512e+01 sec)!
+WIL 5 5	4.42315321e-02
+WIL 7 7	9.53324548e-03
+WIL 9 9	1.97230586e-03
+
+Measurement complete (took 1.031e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n268
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n268:
+
+Configuration imported (took 4.581e+01 sec)!
+WIL 5 5	4.42453083e-02
+WIL 7 7	9.48861673e-03
+WIL 9 9	1.98888856e-03
+
+Measurement complete (took 1.033e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n269
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n269:
+
+Configuration imported (took 3.546e+01 sec)!
+WIL 5 5	4.42429454e-02
+WIL 7 7	9.43214986e-03
+WIL 9 9	2.00951960e-03
+
+Measurement complete (took 1.017e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n270
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n270:
+
+Configuration imported (took 3.517e+01 sec)!
+WIL 5 5	4.41654333e-02
+WIL 7 7	9.48264430e-03
+WIL 9 9	1.97989314e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n271
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n271:
+
+Configuration imported (took 3.521e+01 sec)!
+WIL 5 5	4.42246329e-02
+WIL 7 7	9.48696614e-03
+WIL 9 9	1.94684235e-03
+
+Measurement complete (took 1.017e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n272
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n272:
+
+Configuration imported (took 3.281e+01 sec)!
+WIL 5 5	4.41933720e-02
+WIL 7 7	9.42252584e-03
+WIL 9 9	1.96644229e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n273
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n273:
+
+Configuration imported (took 3.567e+01 sec)!
+WIL 5 5	4.43281640e-02
+WIL 7 7	9.50390300e-03
+WIL 9 9	1.93319065e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n274
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n274:
+
+Configuration imported (took 3.440e+01 sec)!
+WIL 5 5	4.42065648e-02
+WIL 7 7	9.50245463e-03
+WIL 9 9	1.97401032e-03
+
+Measurement complete (took 1.015e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n275
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n275:
+
+Configuration imported (took 3.527e+01 sec)!
+WIL 5 5	4.43492176e-02
+WIL 7 7	9.52112592e-03
+WIL 9 9	2.00606444e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n276
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n276:
+
+Configuration imported (took 3.694e+01 sec)!
+WIL 5 5	4.43066084e-02
+WIL 7 7	9.49562976e-03
+WIL 9 9	1.97178605e-03
+
+Measurement complete (took 1.019e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n277
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n277:
+
+Configuration imported (took 3.501e+01 sec)!
+WIL 5 5	4.42900277e-02
+WIL 7 7	9.46263872e-03
+WIL 9 9	1.93802683e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n278
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n278:
+
+Configuration imported (took 3.441e+01 sec)!
+WIL 5 5	4.42269438e-02
+WIL 7 7	9.41726150e-03
+WIL 9 9	1.94637116e-03
+
+Measurement complete (took 1.014e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n279
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n279:
+
+Configuration imported (took 3.546e+01 sec)!
+WIL 5 5	4.43071336e-02
+WIL 7 7	9.52989137e-03
+WIL 9 9	1.91480067e-03
+
+Measurement complete (took 1.018e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n280
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n280:
+
+Configuration imported (took 3.564e+01 sec)!
+WIL 5 5	4.42088134e-02
+WIL 7 7	9.46098776e-03
+WIL 9 9	2.00288599e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n281
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n281:
+
+Configuration imported (took 3.811e+01 sec)!
+WIL 5 5	4.42576463e-02
+WIL 7 7	9.51561531e-03
+WIL 9 9	1.95812943e-03
+
+Measurement complete (took 1.029e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n282
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n282:
+
+Configuration imported (took 3.492e+01 sec)!
+WIL 5 5	4.43249877e-02
+WIL 7 7	9.47223703e-03
+WIL 9 9	1.95215270e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n283
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n283:
+
+Configuration imported (took 3.338e+01 sec)!
+WIL 5 5	4.42917680e-02
+WIL 7 7	9.49447388e-03
+WIL 9 9	1.96336999e-03
+
+Measurement complete (took 9.964e+02 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n284
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n284:
+
+Configuration imported (took 3.601e+01 sec)!
+WIL 5 5	4.42585206e-02
+WIL 7 7	9.48947557e-03
+WIL 9 9	1.94028574e-03
+
+Measurement complete (took 1.019e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n285
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n285:
+
+Configuration imported (took 3.572e+01 sec)!
+WIL 5 5	4.43120952e-02
+WIL 7 7	9.45112126e-03
+WIL 9 9	1.98008048e-03
+
+Measurement complete (took 1.016e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n286
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n286:
+
+Configuration imported (took 3.793e+01 sec)!
+WIL 5 5	4.43698782e-02
+WIL 7 7	9.54505816e-03
+WIL 9 9	1.93212906e-03
+
+Measurement complete (took 1.019e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n287
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n287:
+
+Configuration imported (took 3.892e+01 sec)!
+WIL 5 5	4.42794891e-02
+WIL 7 7	9.47155960e-03
+WIL 9 9	2.01051993e-03
+
+Measurement complete (took 1.025e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n288
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n288:
+
+Configuration imported (took 3.591e+01 sec)!
+WIL 5 5	4.43631247e-02
+WIL 7 7	9.49336104e-03
+WIL 9 9	2.00684475e-03
+
+Measurement complete (took 1.022e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n289
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n289:
+
+Configuration imported (took 3.572e+01 sec)!
+WIL 5 5	4.42640959e-02
+WIL 7 7	9.51480221e-03
+WIL 9 9	1.99072045e-03
+
+Measurement complete (took 1.027e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n290
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n290:
+
+Configuration imported (took 3.544e+01 sec)!
+WIL 5 5	4.43084162e-02
+WIL 7 7	9.48634372e-03
+WIL 9 9	1.98339586e-03
+
+Measurement complete (took 1.001e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n291
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n291:
+
+Configuration imported (took 3.649e+01 sec)!
+WIL 5 5	4.42459014e-02
+WIL 7 7	9.46476364e-03
+WIL 9 9	1.98872139e-03
+
+Measurement complete (took 1.001e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n292
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n292:
+
+Configuration imported (took 3.499e+01 sec)!
+WIL 5 5	4.42680796e-02
+WIL 7 7	9.47919201e-03
+WIL 9 9	1.98411620e-03
+
+Measurement complete (took 1.000e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n293
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n293:
+
+Configuration imported (took 3.505e+01 sec)!
+WIL 5 5	4.42923400e-02
+WIL 7 7	9.48104859e-03
+WIL 9 9	1.95443518e-03
+
+Measurement complete (took 1.005e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n294
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n294:
+
+Configuration imported (took 3.578e+01 sec)!
+WIL 5 5	4.42677116e-02
+WIL 7 7	9.55350223e-03
+WIL 9 9	1.97078477e-03
+
+Measurement complete (took 1.006e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n295
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n295:
+
+Configuration imported (took 3.824e+01 sec)!
+WIL 5 5	4.41953821e-02
+WIL 7 7	9.48800007e-03
+WIL 9 9	1.98212522e-03
+
+Measurement complete (took 1.007e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n296
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n296:
+
+Configuration imported (took 3.548e+01 sec)!
+WIL 5 5	4.42419599e-02
+WIL 7 7	9.50577118e-03
+WIL 9 9	1.97400941e-03
+
+Measurement complete (took 1.008e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n297
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n297:
+
+Configuration imported (took 3.468e+01 sec)!
+WIL 5 5	4.42347292e-02
+WIL 7 7	9.51498991e-03
+WIL 9 9	1.96828345e-03
+
+Measurement complete (took 1.007e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n298
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n298:
+
+Configuration imported (took 3.764e+01 sec)!
+WIL 5 5	4.42437458e-02
+WIL 7 7	9.47006320e-03
+WIL 9 9	1.96429426e-03
+
+Measurement complete (took 1.011e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n299
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n299:
+
+Configuration imported (took 3.463e+01 sec)!
+WIL 5 5	4.42173355e-02
+WIL 7 7	9.46071299e-03
+WIL 9 9	1.97585879e-03
+
+Measurement complete (took 1.019e+03 sec)
+
+
+Measuring on configuration:
+ /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n300
+
+Reading configuration /scratch/mesonqcd/stilger/MA/configs/96x96x96x96_SU2_b3.09/refl/96x96x96x96_SU2_b3.090000_id1_n300:
+
+Configuration imported (took 3.511e+01 sec)!
+WIL 5 5	4.42789547e-02
+WIL 7 7	9.43639833e-03
+WIL 9 9	2.06185210e-03
+
+Measurement complete (took 1.018e+03 sec)
+
